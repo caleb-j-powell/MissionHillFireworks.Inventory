@@ -1,0 +1,6 @@
+@MissionHillFireworks.Inventory.Backend_HostAddress = http://localhost:5173
+
+GET {{MissionHillFireworks.Inventory.Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,4880 @@
+[
+    {
+        "StockNumber": "MEBC6543",
+        "Brand": "BC",
+        "Description": "PRO 8\" Canisters",
+        "Shots": 18,
+        "Packing": "3/18",
+        "UnitsPerCase": 3,
+        "UPC": 715244065431
+    },
+    {
+        "StockNumber": "MEBC6438",
+        "Brand": "BC",
+        "Description": "THE PATRIOT 6\" Canisters",
+        "Shots": 24,
+        "Packing": "3/24",
+        "UnitsPerCase": 3,
+        "UPC": 715244064380
+    },
+    {
+        "StockNumber": "MEF6005",
+        "Brand": "Fox",
+        "Description": "DUAL EXHAUST 6\" Canisters",
+        "Shots": 12,
+        "Packing": "6/12",
+        "UnitsPerCase": 6,
+        "UPC": 652009060051
+    },
+    {
+        "StockNumber": "MEF6020",
+        "Brand": "Fox",
+        "Description": "KOTO SPECIAL EFFECTS 6\" Ring Shell",
+        "Shots": 6,
+        "Packing": "12/6",
+        "UnitsPerCase": 12,
+        "UPC": 514677060200
+    },
+    {
+        "StockNumber": "MEF6017",
+        "Brand": "Fox",
+        "Description": "KOTO COLLECTION 5\" & 6\" Canisters",
+        "Shots": 24,
+        "Packing": "3/24",
+        "UnitsPerCase": 3,
+        "UPC": 514677060170
+    },
+    {
+        "StockNumber": "MEF6025",
+        "Brand": "Fox",
+        "Description": "KOTO FESTIVAL 5\", 6\", & 7\" Canisters",
+        "Shots": 24,
+        "Packing": "3/24",
+        "UnitsPerCase": 3,
+        "UPC": 514677060255
+    },
+    {
+        "StockNumber": "MEBC6460",
+        "Brand": "BC",
+        "Description": "NEON DIABLO 24 - 5\" Canisters",
+        "Shots": 24,
+        "Packing": "3/24",
+        "UnitsPerCase": 3,
+        "UPC": 715244064601
+    },
+    {
+        "StockNumber": "MEBC6520",
+        "Brand": "BC",
+        "Description": "LEGACY COLLECTION 4\", 5\", 6\" Canisters",
+        "Shots": 24,
+        "Packing": "3/24",
+        "UnitsPerCase": 3,
+        "UPC": 715244065202
+    },
+    {
+        "StockNumber": "MEBC6440",
+        "Brand": "BC",
+        "Description": "BLACK CAT 5\" Canisters",
+        "Shots": 24,
+        "Packing": "4/24",
+        "UnitsPerCase": 4,
+        "UPC": 715244064403
+    },
+    {
+        "StockNumber": "MEP8057",
+        "Brand": "Win",
+        "Description": "RAISE THE DEAD 7\" Canisters",
+        "Shots": 24,
+        "Packing": "3/24",
+        "UnitsPerCase": 3,
+        "UPC": 705108805709
+    },
+    {
+        "StockNumber": "MEF6036",
+        "Brand": "Fox",
+        "Description": "SONIC SHELLS 5\" Canisters (whistling)",
+        "Shots": 24,
+        "Packing": "4/24",
+        "UnitsPerCase": 4,
+        "UPC": 514677060361
+    },
+    {
+        "StockNumber": "MEBC6516",
+        "Brand": "BC",
+        "Description": "DIABLO 12 SELECT Diablo & Neon Diablo Shells",
+        "Shots": 12,
+        "Packing": "8/2/6",
+        "UnitsPerCase": 8,
+        "UPC": 715244065165
+    },
+    {
+        "StockNumber": "MEBC6445",
+        "Brand": "BC",
+        "Description": "NEON DIABLO  5\" Canisters",
+        "Shots": 6,
+        "Packing": "12/6",
+        "UnitsPerCase": 12,
+        "UPC": 715244064458
+    },
+    {
+        "StockNumber": "MEBC6329",
+        "Brand": "BC",
+        "Description": "DIABLO 24 - 4\" Canisters",
+        "Shots": 24,
+        "Packing": "4/24",
+        "UnitsPerCase": 4,
+        "UPC": 715244063291
+    },
+    {
+        "StockNumber": "MEF6021",
+        "Brand": "Fox",
+        "Description": "BLACK MAMBA 4\" Canisters",
+        "Shots": 24,
+        "Packing": "4/24",
+        "UnitsPerCase": 4,
+        "UPC": 514677060217
+    },
+    {
+        "StockNumber": "MEBC6354",
+        "Brand": "BC",
+        "Description": "DIABLO 12 - 4\" Canisters",
+        "Shots": 12,
+        "Packing": "8/12",
+        "UnitsPerCase": 8,
+        "UPC": 715244063543
+    },
+    {
+        "StockNumber": "MEF6021A",
+        "Brand": "Fox",
+        "Description": "BLACK MAMBA 12 - 4\" Canisters",
+        "Shots": 12,
+        "Packing": "6/12",
+        "UnitsPerCase": 6,
+        "UPC": 514678010044
+    },
+    {
+        "StockNumber": "MEJP-935",
+        "Brand": "JP",
+        "Description": "ZOMBIE BLASTER     ",
+        "Shots": 12,
+        "Packing": "12/12",
+        "UnitsPerCase": 12,
+        "UPC": 652009003546
+    },
+    {
+        "StockNumber": "MEF6094",
+        "Brand": "Fox",
+        "Description": "VISUAL FX Special Ring & Pistol Effect",
+        "Shots": 6,
+        "Packing": "45632",
+        "UnitsPerCase": 12,
+        "UPC": 514677060941
+    },
+    {
+        "StockNumber": "MEBC6442",
+        "Brand": "BC",
+        "Description": "STAR SPANGLED CANNON",
+        "Shots": 12,
+        "Packing": "12/12",
+        "UnitsPerCase": 12,
+        "UPC": 715244064427
+    },
+    {
+        "StockNumber": "MEF6030",
+        "Brand": "Fox",
+        "Description": "WRECKING BALLS",
+        "Shots": 12,
+        "Packing": "12/12",
+        "UnitsPerCase": 12,
+        "UPC": 652009909312
+    },
+    {
+        "StockNumber": "MEBP-A036/12",
+        "Brand": "Bros",
+        "Description": "SMOKE-N-MIRRORS 4\" Canisters",
+        "Shots": 12,
+        "Packing": "6/12",
+        "UnitsPerCase": 6,
+        "UPC": 687985903634
+    },
+    {
+        "StockNumber": "MEBC6122",
+        "Brand": "BC",
+        "Description": "BLACK BOX ARTILLERY",
+        "Shots": 6,
+        "Packing": "12/6",
+        "UnitsPerCase": 12,
+        "UPC": 715244061228
+    },
+    {
+        "StockNumber": "MEBC6409",
+        "Brand": "BC",
+        "Description": "CLASSIC ARTILLERY",
+        "Shots": 6,
+        "Packing": "12/6",
+        "UnitsPerCase": 12,
+        "UPC": 715244064090
+    },
+    {
+        "StockNumber": "MEBC6173",
+        "Brand": "BC",
+        "Description": "FESTIVAL BALL window box",
+        "Shots": 6,
+        "Packing": "15/6",
+        "UnitsPerCase": 15,
+        "UPC": 715244061730
+    },
+    {
+        "StockNumber": "MEBC6450",
+        "Brand": "BC",
+        "Description": "BLACK CAT 12 shot bag",
+        "Shots": 12,
+        "Packing": "12/12",
+        "UnitsPerCase": 12,
+        "UPC": 715244064502
+    },
+    {
+        "StockNumber": "MEBC6439",
+        "Brand": "BC",
+        "Description": "BLACK CAT 6 shot bag",
+        "Shots": 6,
+        "Packing": "24/6",
+        "UnitsPerCase": 24,
+        "UPC": 715244064397
+    },
+    {
+        "StockNumber": "MEF6035",
+        "Brand": "Fox",
+        "Description": "ARTILLERY SHELL 6 shot bag",
+        "Shots": 6,
+        "Packing": "18/6",
+        "UnitsPerCase": 18,
+        "UPC": 514677060354
+    },
+    {
+        "StockNumber": "MEW515B",
+        "Brand": "Fox",
+        "Description": "ARTILLERY SHELL",
+        "Shots": 6,
+        "Packing": "45632",
+        "UnitsPerCase": 12,
+        "UPC": 514679005155
+    },
+    {
+        "StockNumber": "MEF6032-GV",
+        "Brand": "Fox",
+        "Description": "ASSORTED 1\" Canisters",
+        "Shots": 6,
+        "Packing": "36/6",
+        "UnitsPerCase": 36
+    },
+    {
+        "StockNumber": "MEF6033-GV",
+        "Brand": "Fox",
+        "Description": "WHITE STROBE 1\" Canisters",
+        "Shots": 6,
+        "Packing": "36/6",
+        "UnitsPerCase": 36
+    },
+    {
+        "StockNumber": "MEF6034-GV",
+        "Brand": "Fox",
+        "Description": "CRACKLING 1\" Canisters",
+        "Shots": 6,
+        "Packing": "36/6",
+        "UnitsPerCase": 36
+    },
+    {
+        "StockNumber": "MEC6000",
+        "Brand": "Zen",
+        "Description": "AERIAL BOMB 30/45mm sampler pack",
+        "Shots": 4,
+        "Packing": "24/4",
+        "UnitsPerCase": 24,
+        "UPC": 477882060000
+    },
+    {
+        "StockNumber": "MEC6007",
+        "Brand": "Zen",
+        "Description": "AERIAL BOMB 45mm",
+        "Shots": 12,
+        "Packing": "8/12",
+        "UnitsPerCase": 8,
+        "UPC": 477882060079
+    },
+    {
+        "StockNumber": "MEC6008",
+        "Brand": "Zen",
+        "Description": "AERIAL BOMB 45mm Bulk Pack",
+        "Shots": 1,
+        "Packing": "3/20",
+        "UnitsPerCase": 60,
+        "UPC": 477882960089
+    },
+    {
+        "StockNumber": "MEC6006",
+        "Brand": "Zen",
+        "Description": "AIR RAID 8 shot rack",
+        "Shots": 8,
+        "Packing": "6/1",
+        "UnitsPerCase": 6,
+        "UPC": 477882060062
+    },
+    {
+        "StockNumber": "ATGOD",
+        "Brand": "BC",
+        "Description": "THE GODFATHER",
+        "Packing": "1/1",
+        "UnitsPerCase": 1,
+        "UPC": 652009001085
+    },
+    {
+        "StockNumber": "ATBROS",
+        "Brand": "Bros",
+        "Description": "BIG BROTHER",
+        "Packing": "1/1",
+        "UnitsPerCase": 1,
+        "UPC": 875650100550
+    },
+    {
+        "StockNumber": "ATKING",
+        "Brand": "BC",
+        "Description": "KING OF THE BLOCK      ",
+        "Packing": "1/1",
+        "UnitsPerCase": 1,
+        "UPC": 652009001061
+    },
+    {
+        "StockNumber": "ATBCBST",
+        "Brand": "BC",
+        "Description": "THE BEAST",
+        "Packing": "1/1",
+        "UnitsPerCase": 1,
+        "UPC": 765244000000
+    },
+    {
+        "StockNumber": "ATBCNGT-1",
+        "Brand": "BC",
+        "Description": "NIGHT DISPLAY   ",
+        "Packing": "1/1",
+        "UnitsPerCase": 1,
+        "UPC": 715244000029
+    },
+    {
+        "StockNumber": "ATPC-1",
+        "Brand": "BC",
+        "Description": "PYRO CITY         ",
+        "Packing": "1/1",
+        "UnitsPerCase": 1,
+        "UPC": 652009001115
+    },
+    {
+        "StockNumber": "ATBCPA",
+        "Brand": "BC",
+        "Description": "PARTY ANIMAL ",
+        "Packing": "3/1",
+        "UnitsPerCase": 3,
+        "UPC": 715244001200
+    },
+    {
+        "StockNumber": "ATBCITY",
+        "Brand": "Gen",
+        "Description": "BIG CITY DISPLAY",
+        "Packing": "3/1",
+        "UnitsPerCase": 3,
+        "UPC": 652009001092
+    },
+    {
+        "StockNumber": "ATBBPP6",
+        "Brand": "BC",
+        "Description": "PARTY PACK #6  ",
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 715244000456
+    },
+    {
+        "StockNumber": "ATBBPRI",
+        "Brand": "BC",
+        "Description": "PRIDE & HONOR #6 ",
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 715244800032
+    },
+    {
+        "StockNumber": "ATBBDIAM",
+        "Brand": "Fox",
+        "Description": "BACKYARD SERIES - DIAMOND  #6",
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 514675600019
+    },
+    {
+        "StockNumber": "ATGKPP5",
+        "Brand": "BC",
+        "Description": "PARTY PACK #5 ",
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 715244000654
+    },
+    {
+        "StockNumber": "ATGKCEL",
+        "Brand": "BC",
+        "Description": "CELEBRATE AMERICA  #5 ",
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 715244800025
+    },
+    {
+        "StockNumber": "ATGKPLAT",
+        "Brand": "Fox",
+        "Description": "BACKYARD SERIES - PLATINUM   #5",
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 514675500012
+    },
+    {
+        "StockNumber": "ATEPP4",
+        "Brand": "BC",
+        "Description": "PARTY PACK #4  ",
+        "Packing": "6/1",
+        "UnitsPerCase": 6,
+        "UPC": 715244001002
+    },
+    {
+        "StockNumber": "ATEHER",
+        "Brand": "BC",
+        "Description": "BC HERITAGE #4",
+        "Packing": "6/1",
+        "UnitsPerCase": 6,
+        "UPC": 715244800018
+    },
+    {
+        "StockNumber": "ATLG3BOX",
+        "Brand": "LG",
+        "Description": "PARTY PACK #3",
+        "Packing": "6/1",
+        "UnitsPerCase": 6,
+        "UPC": 161273215246
+    },
+    {
+        "StockNumber": "ATBC032",
+        "Brand": "BC",
+        "Description": "EXCELLENT BAG   ",
+        "Packing": "6/1",
+        "UnitsPerCase": 6,
+        "UPC": 715244300327
+    },
+    {
+        "StockNumber": "ATJP-12",
+        "Brand": "BC",
+        "Description": "JUNIOR PYRO",
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 952009001017
+    },
+    {
+        "StockNumber": "ATF1100",
+        "Brand": "Fox",
+        "Description": "NITRO BAG ",
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 514677011004
+    },
+    {
+        "StockNumber": "ATWDNBAG",
+        "Brand": "Gen",
+        "Description": "NITRO BAG ",
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 652009003706
+    },
+    {
+        "StockNumber": "ATPP-12",
+        "Brand": "BC",
+        "Description": "PYRO PACK       ",
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 952009001024
+    },
+    {
+        "StockNumber": "ATPCS-2",
+        "Brand": "BC",
+        "Description": "PYRO CITY S&S",
+        "Packing": "2/1",
+        "UnitsPerCase": 2,
+        "UPC": 652009101112
+    },
+    {
+        "StockNumber": "ATBBPP6S",
+        "Brand": "BC",
+        "Description": "PARTY PACK #6 S&S  ",
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 715244100453
+    },
+    {
+        "StockNumber": "ATGKPP5S",
+        "Brand": "BC",
+        "Description": "PARTY PACK #5 S&S    ",
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 715244100651
+    },
+    {
+        "StockNumber": "ATEPP4S",
+        "Brand": "BC",
+        "Description": "PARTY PACK #4 S&S ",
+        "Packing": "6/1",
+        "UnitsPerCase": 6,
+        "UPC": 715244201006
+    },
+    {
+        "StockNumber": "ATWPP-0002",
+        "Brand": "Gen",
+        "Description": "4TH OF JULY BAG  S&S",
+        "Packing": "10/1",
+        "UnitsPerCase": 10,
+        "UPC": 705108300020
+    },
+    {
+        "StockNumber": "ATPP-SSI8",
+        "Brand": "BC",
+        "Description": "PYRO PACK S&S",
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 952009101021
+    },
+    {
+        "StockNumber": "ATJPSS-12",
+        "Brand": "BC",
+        "Description": "JUNIOR PYRO S&S",
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 952009101014
+    },
+    {
+        "StockNumber": "ATFS-21",
+        "Brand": "BC",
+        "Description": "FIREWORKS SURPRISE S&S   ",
+        "Packing": "21/1",
+        "UnitsPerCase": 21,
+        "UPC": 378001200027
+    },
+    {
+        "StockNumber": "ATBC0006",
+        "Brand": "BC",
+        "Description": "BUCKET O' FUN S&S   ",
+        "Packing": "24/1",
+        "UnitsPerCase": 24,
+        "UPC": 715244000067
+    },
+    {
+        "StockNumber": "ATBC0005",
+        "Brand": "BC",
+        "Description": "JR PYRO TOTE BAG S&S",
+        "Packing": "24/1",
+        "UnitsPerCase": 24,
+        "UPC": 715244000050
+    },
+    {
+        "StockNumber": "ATBC089-12",
+        "Brand": "BC",
+        "Description": "JR PYRO BACKPACK",
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 715244000890
+    },
+    {
+        "StockNumber": "ATKP-1",
+        "Brand": "BC",
+        "Description": "KID'S PACK ",
+        "Packing": "24/1",
+        "UnitsPerCase": 24,
+        "UPC": 715244001705
+    },
+    {
+        "StockNumber": "FCBC00016",
+        "Brand": "BC",
+        "Description": "BLACK CAT FIRECRACKERS",
+        "Packing": "24/40/16",
+        "UnitsPerCase": 24,
+        "UPC": 715244114160
+    },
+    {
+        "StockNumber": "FCBC00016A",
+        "Brand": "BC",
+        "Description": "BLACK CAT FIRECRACKERS",
+        "Packing": "12/80/16",
+        "UnitsPerCase": 12,
+        "UPC": 715244118168
+    },
+    {
+        "StockNumber": "FCBC00050",
+        "Brand": "BC",
+        "Description": "BLACK CAT FIRECRACKERS",
+        "Packing": "8/40/50",
+        "UnitsPerCase": 8,
+        "UPC": 715244110506
+    },
+    {
+        "StockNumber": "FCBC00100",
+        "Brand": "BC",
+        "Description": "BLACK CAT FIRECRACKERS",
+        "Packing": "8/20/100",
+        "UnitsPerCase": 8,
+        "UPC": 715244111008
+    },
+    {
+        "StockNumber": "FCBC00100B",
+        "Brand": "BC",
+        "Description": "BLACK CAT FIRECRACKERS (bulk)",
+        "Packing": "160/100",
+        "UnitsPerCase": 160,
+        "UPC": 715244101009
+    },
+    {
+        "StockNumber": "FCBC00200",
+        "Brand": "BC",
+        "Description": "BLACK CAT FIRECRACKERS",
+        "Packing": "8/10/200",
+        "UnitsPerCase": 8,
+        "UPC": 715244112005
+    },
+    {
+        "StockNumber": "FCBC00400",
+        "Brand": "BC",
+        "Description": "BLACK CAT  FIRECRACKERS",
+        "Packing": "8/5/400",
+        "UnitsPerCase": 8,
+        "UPC": 715244154005
+    },
+    {
+        "StockNumber": "FCBCR00500",
+        "Brand": "BC",
+        "Description": "BLACK CAT  FIRECRACKERS",
+        "Packing": "32/500",
+        "UnitsPerCase": 32,
+        "UPC": 715244105007
+    },
+    {
+        "StockNumber": "FCBCR1000",
+        "Brand": "BC",
+        "Description": "BLACK CAT ROLL FIRECRACKERS",
+        "Packing": "16/1000",
+        "UnitsPerCase": 16,
+        "UPC": 715244111107
+    },
+    {
+        "StockNumber": "FCBC101RWB",
+        "Brand": "BC",
+        "Description": "BLACK CAT ROLL FIRECRACKERS - RWB",
+        "Packing": "16/1000",
+        "UnitsPerCase": 16,
+        "UPC": 715244211104
+    },
+    {
+        "StockNumber": "FCBCR2000",
+        "Brand": "BC",
+        "Description": "BLACK CAT ROLL FIRECRACKERS",
+        "Packing": "8/2000",
+        "UnitsPerCase": 8,
+        "UPC": 715244120000
+    },
+    {
+        "StockNumber": "FCBCR4000",
+        "Brand": "BC",
+        "Description": "BLACK CAT ROLL FIRECRACKERS",
+        "Packing": "4/4000",
+        "UnitsPerCase": 4,
+        "UPC": 715244140008
+    },
+    {
+        "StockNumber": "FCBCR8000",
+        "Brand": "BC",
+        "Description": "BLACK CAT ROLL FIRECRACKERS",
+        "Packing": "2/8000",
+        "UnitsPerCase": 2,
+        "UPC": 715244101085
+    },
+    {
+        "StockNumber": "FCBCR10000",
+        "Brand": "BC",
+        "Description": "BLACK CAT ROLL FIRECRACKERS (colored box)",
+        "Packing": "1/10,000",
+        "UnitsPerCase": 1,
+        "UPC": 715244010004
+    },
+    {
+        "StockNumber": "FCBCR9000",
+        "Brand": "BC",
+        "Description": "BLACK CAT ROLL FIRECRACKERS (colored box)",
+        "Packing": "1/16000",
+        "UnitsPerCase": 1,
+        "UPC": 715244161010
+    },
+    {
+        "StockNumber": "FCBC114",
+        "Brand": "BC",
+        "Description": "M-150 ASSORTED  RED/SILVER (box)",
+        "Packing": "40/36",
+        "UnitsPerCase": 40,
+        "UPC": 715244001149
+    },
+    {
+        "StockNumber": "FCBC117",
+        "Brand": "BC",
+        "Description": "M-150 RED (bag)",
+        "Packing": "120/12",
+        "UnitsPerCase": 120,
+        "UPC": 715244001170
+    },
+    {
+        "StockNumber": "FCBC105",
+        "Brand": "BC",
+        "Description": "LITTLE  DYNAMITE  1-1/2\"",
+        "Packing": "100/100",
+        "UnitsPerCase": 100,
+        "UPC": 715244001057
+    },
+    {
+        "StockNumber": "FCBC105RWB",
+        "Brand": "BC",
+        "Description": "LITTLE  DYNAMITE  1-1/2\" - RWB",
+        "Packing": "100/100",
+        "UnitsPerCase": 100,
+        "UPC": 715244101054
+    },
+    {
+        "StockNumber": "FCBC118",
+        "Brand": "BC",
+        "Description": "CRACKER BOMB",
+        "Packing": "48/3",
+        "UnitsPerCase": 48,
+        "UPC": 715244001187
+    },
+    {
+        "StockNumber": "FCBC00100A",
+        "Brand": "BC",
+        "Description": "BLACK CAT COLOR FIRECRACKER",
+        "Packing": "160/100",
+        "UnitsPerCase": 160,
+        "UPC": 715244651009
+    },
+    {
+        "StockNumber": "CNBC288",
+        "Brand": "BC",
+        "Description": "#3 CONE Solar Wave",
+        "Packing": "144/1",
+        "UnitsPerCase": 144,
+        "UPC": 715244102884
+    },
+    {
+        "StockNumber": "CNBC289",
+        "Brand": "BC",
+        "Description": "#4 CONE Turbo Flash",
+        "Packing": "72/1",
+        "UnitsPerCase": 72,
+        "UPC": 715244002894
+    },
+    {
+        "StockNumber": "CNBC290",
+        "Brand": "BC",
+        "Description": "#8 CONE Pharaoh's Treasure",
+        "Packing": "48/1",
+        "UnitsPerCase": 48,
+        "UPC": 715244002900
+    },
+    {
+        "StockNumber": "FNBC2216",
+        "Brand": "BC",
+        "Description": "100 FOOT FOUNTAIN (with mine)",
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 715244022168
+    },
+    {
+        "StockNumber": "FNBC2240",
+        "Brand": "BC",
+        "Description": "3 MINUTE FTN",
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 715244022403
+    },
+    {
+        "StockNumber": "FNBC2001-17",
+        "Brand": "BC",
+        "Description": "6\" FOUR ASSORTED",
+        "Packing": "36/4",
+        "UnitsPerCase": 36,
+        "UPC": 715244200115
+    },
+    {
+        "StockNumber": "FNBC2019-22",
+        "Brand": "BC",
+        "Description": "7\" FOUR ASSORTED",
+        "Packing": "18/4",
+        "UnitsPerCase": 18,
+        "UPC": 715244201921
+    },
+    {
+        "StockNumber": "FNBC2224",
+        "Brand": "BC",
+        "Description": "8\" 3 for 1 COLOR MEDLEY  ",
+        "Packing": "24/3",
+        "UnitsPerCase": 24,
+        "UPC": 715244022243
+    },
+    {
+        "StockNumber": "FNBC2045",
+        "Brand": "BC",
+        "Description": "9\"  FOUR ASSORTED ",
+        "Packing": "18/4",
+        "UnitsPerCase": 18,
+        "UPC": 715244020454
+    },
+    {
+        "StockNumber": "FNBC313-41",
+        "Brand": "BC",
+        "Description": "BATTLE AXE (handheld)",
+        "Packing": "45627",
+        "UnitsPerCase": 12,
+        "UPC": 715244313419
+    },
+    {
+        "StockNumber": "FNJP-287A",
+        "Brand": "JP",
+        "Description": "CAJUN CRACKLER",
+        "Packing": "36/3",
+        "UnitsPerCase": 36,
+        "UPC": 170000000062
+    },
+    {
+        "StockNumber": "FNBC313-04",
+        "Brand": "BC",
+        "Description": "CALIFORNIA CANDLE XLG",
+        "Packing": "24/4",
+        "UnitsPerCase": 24,
+        "UPC": 715244031344
+    },
+    {
+        "StockNumber": "FNBC2251",
+        "Brand": "BC",
+        "Description": "CAT SCRATCH FEVER",
+        "Packing": "18/1",
+        "UnitsPerCase": 18,
+        "UPC": 715244022519
+    },
+    {
+        "StockNumber": "FNBC2014-2",
+        "Brand": "BC",
+        "Description": "CUCKOO/KILLER BEE",
+        "Packing": "24/4",
+        "UnitsPerCase": 24,
+        "UPC": 715244201426
+    },
+    {
+        "StockNumber": "FNBC2244",
+        "Brand": "BC",
+        "Description": "DEMO DERBY",
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 715244022441
+    },
+    {
+        "StockNumber": "FNF230",
+        "Brand": "Fox",
+        "Description": "FAIR & SQUARE",
+        "Packing": "24/1",
+        "UnitsPerCase": 24,
+        "UPC": 514677002309
+    },
+    {
+        "StockNumber": "FNBC2230",
+        "Brand": "BC",
+        "Description": "FANTASTIC 4",
+        "Packing": "24/4",
+        "UnitsPerCase": 24,
+        "UPC": 715244022304
+    },
+    {
+        "StockNumber": "FNBC2247",
+        "Brand": "BC",
+        "Description": "FESTIVAL FOUNTAIN (low noise)",
+        "Packing": "24/1",
+        "UnitsPerCase": 24,
+        "UPC": 715244022472
+    },
+    {
+        "StockNumber": "FNLPF1055",
+        "Brand": "Gen",
+        "Description": "FIRE HYDRANT",
+        "Packing": "8/1",
+        "UnitsPerCase": 8,
+        "UPC": 811451014214
+    },
+    {
+        "StockNumber": "FNBC2245",
+        "Brand": "BC",
+        "Description": "FIRESTIX ",
+        "Packing": "72/6",
+        "UnitsPerCase": 72,
+        "UPC": 715244122455
+    },
+    {
+        "StockNumber": "FNF221",
+        "Brand": "Fox",
+        "Description": "FISH CANDY ",
+        "Packing": "8/1",
+        "UnitsPerCase": 8,
+        "UPC": 514677102214
+    },
+    {
+        "StockNumber": "FNBC2225",
+        "Brand": "BC",
+        "Description": "FISH CRAZY",
+        "Packing": "24/1",
+        "UnitsPerCase": 24,
+        "UPC": 715244022250
+    },
+    {
+        "StockNumber": "FNBC2252",
+        "Brand": "BC",
+        "Description": "FLIP SWITCH",
+        "Packing": "18/1",
+        "UnitsPerCase": 18,
+        "UPC": 715244022526
+    },
+    {
+        "StockNumber": "FNBC2174",
+        "Brand": "BC",
+        "Description": "FOUNTASTIC",
+        "Packing": "40/1",
+        "UnitsPerCase": 40,
+        "UPC": 715244021741
+    },
+    {
+        "StockNumber": "FNBC2214",
+        "Brand": "BC",
+        "Description": "FRICK AND FRACK ",
+        "Packing": "12/2",
+        "UnitsPerCase": 12,
+        "UPC": 715244022144
+    },
+    {
+        "StockNumber": "FNF202A",
+        "Brand": "Fox",
+        "Description": "FROG ",
+        "Packing": "18/1",
+        "UnitsPerCase": 18,
+        "UPC": 514677002026
+    },
+    {
+        "StockNumber": "FNF200",
+        "Brand": "Fox",
+        "Description": "FTN DEW ",
+        "Packing": "24/1",
+        "UnitsPerCase": 24,
+        "UPC": 514677002002
+    },
+    {
+        "StockNumber": "FNBC2202A",
+        "Brand": "BC",
+        "Description": "GAMMA",
+        "Packing": "36/1",
+        "UnitsPerCase": 36,
+        "UPC": 715244022021
+    },
+    {
+        "StockNumber": "FNF220",
+        "Brand": "Fox",
+        "Description": "GOAL (plastic soccer ball)",
+        "Packing": "8/1",
+        "UnitsPerCase": 8,
+        "UPC": 514677002200
+    },
+    {
+        "StockNumber": "FNBC2250",
+        "Brand": "BC",
+        "Description": "GODDESS OF FIRE",
+        "Packing": "20/1",
+        "UnitsPerCase": 20,
+        "UPC": 715244022502
+    },
+    {
+        "StockNumber": "FNBC2248",
+        "Brand": "BC",
+        "Description": "HOLIDAY LIGHTS  (low noise)",
+        "Packing": "20/1",
+        "UnitsPerCase": 20,
+        "UPC": 715244022489
+    },
+    {
+        "StockNumber": "FNBC2254",
+        "Brand": "BC",
+        "Description": "HYPER CHILL",
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 715244022540
+    },
+    {
+        "StockNumber": "FNBC2184",
+        "Brand": "BC",
+        "Description": "JOKER     ",
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 715244021840
+    },
+    {
+        "StockNumber": "FNBC2196",
+        "Brand": "BC",
+        "Description": "KABOODLE",
+        "Packing": "36/1",
+        "UnitsPerCase": 36,
+        "UPC": 715244021963
+    },
+    {
+        "StockNumber": "FNF219",
+        "Brand": "Fox",
+        "Description": "KOI FISH ",
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 514677002194
+    },
+    {
+        "StockNumber": "FNLG2108",
+        "Brand": "LG",
+        "Description": "LIGHT SABER (handheld)",
+        "Packing": "2/24",
+        "UnitsPerCase": 48,
+        "UPC": 201207210814
+    },
+    {
+        "StockNumber": "FNBC2178A",
+        "Brand": "BC",
+        "Description": "LITTLE BIG SHOW ",
+        "Packing": "24/1",
+        "UnitsPerCase": 24,
+        "UPC": 715244021789
+    },
+    {
+        "StockNumber": "FNBC2243",
+        "Brand": "BC",
+        "Description": "LOST TEMPLE  ",
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 715244022434
+    },
+    {
+        "StockNumber": "FNBC2239",
+        "Brand": "BC",
+        "Description": "MEDUSA    ",
+        "Packing": "16/1",
+        "UnitsPerCase": 16,
+        "UPC": 715244022397
+    },
+    {
+        "StockNumber": "FNBC2040",
+        "Brand": "BC",
+        "Description": "MINI PYRO  ",
+        "Packing": "60/1",
+        "UnitsPerCase": 60,
+        "UPC": 715244020409
+    },
+    {
+        "StockNumber": "FNF218",
+        "Brand": "Fox",
+        "Description": "MINI WAFFLE CONE",
+        "Packing": "18/4",
+        "UnitsPerCase": 18,
+        "UPC": 514677102184
+    },
+    {
+        "StockNumber": "FNBC2234",
+        "Brand": "BC",
+        "Description": "NEIGHBOR HATER ",
+        "Packing": "24/1",
+        "UnitsPerCase": 24,
+        "UPC": 715244022342
+    },
+    {
+        "StockNumber": "FNBC2231",
+        "Brand": "BC",
+        "Description": "NEON DRAGON ",
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 715244022311
+    },
+    {
+        "StockNumber": "FNBC2249",
+        "Brand": "BC",
+        "Description": "RED, WHITE & SPARKS",
+        "Packing": "10/3",
+        "UnitsPerCase": 10,
+        "UPC": 715244022496
+    },
+    {
+        "StockNumber": "FNF225",
+        "Brand": "Fox",
+        "Description": "SILENT TREATMENT (low noise)",
+        "Packing": "45505",
+        "UnitsPerCase": 8,
+        "UPC": 514677002255
+    },
+    {
+        "StockNumber": "FNLG2109",
+        "Brand": "LG",
+        "Description": "SKY DANCER (hand held)",
+        "Packing": "2/30",
+        "UnitsPerCase": 60,
+        "UPC": 211207210912
+    },
+    {
+        "StockNumber": "FNP3233",
+        "Brand": "Win",
+        "Description": "SNOW CONE M",
+        "Packing": "16/1",
+        "UnitsPerCase": 16,
+        "UPC": 705108323302
+    },
+    {
+        "StockNumber": "FNSW261222-F01",
+        "Brand": "Gen",
+        "Description": "SOCCER FTN",
+        "Packing": "9/1",
+        "UnitsPerCase": 9,
+        "UPC": 311400012228
+    },
+    {
+        "StockNumber": "FNBC2253",
+        "Brand": "BC",
+        "Description": "SPARK MY INTEREST",
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 715244022533
+    },
+    {
+        "StockNumber": "FNJP-268",
+        "Brand": "JP",
+        "Description": "SPIDER MANIA",
+        "Packing": "18/1",
+        "UnitsPerCase": 18,
+        "UPC": 652009902689
+    },
+    {
+        "StockNumber": "FNF235",
+        "Brand": "Fox",
+        "Description": "SPOUTING OFF",
+        "Packing": "24/1",
+        "UnitsPerCase": 24,
+        "UPC": 514677002354
+    },
+    {
+        "StockNumber": "FNF232",
+        "Brand": "Fox",
+        "Description": "SUGAR POP",
+        "Packing": "36/1",
+        "UnitsPerCase": 36,
+        "UPC": 514677002323
+    },
+    {
+        "StockNumber": "FNBC2235",
+        "Brand": "BC",
+        "Description": "SUMMER RAIN",
+        "Packing": "16/1",
+        "UnitsPerCase": 16,
+        "UPC": 715244022359
+    },
+    {
+        "StockNumber": "FNP3216",
+        "Brand": "Win",
+        "Description": "SUPER SLUGGER  (handheld)",
+        "Packing": "18/1",
+        "UnitsPerCase": 18,
+        "UPC": 705108321605
+    },
+    {
+        "StockNumber": "FNPK8022",
+        "Brand": "LG",
+        "Description": "SWORD - VICTORY",
+        "Packing": "60/1",
+        "UnitsPerCase": 60,
+        "UPC": 131611802209
+    },
+    {
+        "StockNumber": "FNTPF8022",
+        "Brand": "LG",
+        "Description": "SWORD - PRINCESS",
+        "Packing": "60/1",
+        "UnitsPerCase": 60,
+        "UPC": 201606802214
+    },
+    {
+        "StockNumber": "FNKBF1121",
+        "Brand": "Gen",
+        "Description": "THE EVIL ONE (plastic)",
+        "Packing": "2/18",
+        "UnitsPerCase": 36,
+        "UPC": 875330237415
+    },
+    {
+        "StockNumber": "FNF233",
+        "Brand": "Fox",
+        "Description": "TINY TITAN",
+        "Packing": "36/1",
+        "UnitsPerCase": 36,
+        "UPC": 514677002330
+    },
+    {
+        "StockNumber": "FNF203",
+        "Brand": "Fox",
+        "Description": "TRES AMIGO'S  ",
+        "Packing": "9/3",
+        "UnitsPerCase": 9,
+        "UPC": 514677102030
+    },
+    {
+        "StockNumber": "FNF216",
+        "Brand": "Fox",
+        "Description": "UNICORN (plastic) ",
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 514677002163
+    },
+    {
+        "StockNumber": "FNF226",
+        "Brand": "Fox",
+        "Description": "VOLTAGE",
+        "Packing": "45627",
+        "UnitsPerCase": 12,
+        "UPC": 514677002262
+    },
+    {
+        "StockNumber": "FNF217",
+        "Brand": "Fox",
+        "Description": "WAFFLE CONE",
+        "Packing": "8/1",
+        "UnitsPerCase": 8,
+        "UPC": 514677002170
+    },
+    {
+        "StockNumber": "FNBC2242",
+        "Brand": "BC",
+        "Description": "XPLODE ENERGY (plastic)",
+        "Packing": "48/1",
+        "UnitsPerCase": 48,
+        "UPC": 715244022427
+    },
+    {
+        "StockNumber": "FNF223",
+        "Brand": "Fox",
+        "Description": "CITY OF FOUNTAINS  ",
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 514677002231
+    },
+    {
+        "StockNumber": "FNF222",
+        "Brand": "Fox",
+        "Description": "DARK CASTLE   ",
+        "Packing": "6/1",
+        "UnitsPerCase": 6,
+        "UPC": 514677102221
+    },
+    {
+        "StockNumber": "FNBC2185",
+        "Brand": "BC",
+        "Description": "ENERGIZER   ",
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 715244021857
+    },
+    {
+        "StockNumber": "FNF231",
+        "Brand": "Fox",
+        "Description": "GLOWING EMBERS",
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 514677002316
+    },
+    {
+        "StockNumber": "FNBC6523",
+        "Brand": "BC",
+        "Description": "HIGH STRUNG (w/mine)",
+        "Packing": "8/1",
+        "UnitsPerCase": 8,
+        "UPC": 715244065233
+    },
+    {
+        "StockNumber": "FNBC2206",
+        "Brand": "BC",
+        "Description": "NEON LIGHTS   ",
+        "Packing": "6/1",
+        "UnitsPerCase": 6,
+        "UPC": 715244022069
+    },
+    {
+        "StockNumber": "FNF224",
+        "Brand": "Fox",
+        "Description": "SENTRY GUN      ",
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 514677002248
+    },
+    {
+        "StockNumber": "FNBC2207",
+        "Brand": "BC",
+        "Description": "TROPICAL THUNDER",
+        "Packing": "6/1",
+        "UnitsPerCase": 6,
+        "UPC": 715244022076
+    },
+    {
+        "StockNumber": "FNBC2236",
+        "Brand": "BC",
+        "Description": "WILD CARD",
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 715244022366
+    },
+    {
+        "StockNumber": "FNBC2246",
+        "Brand": "BC",
+        "Description": "WORLD'S LARGEST FOUNTAIN",
+        "Packing": "45383",
+        "UnitsPerCase": 4,
+        "UPC": 715244022465
+    },
+    {
+        "StockNumber": "MEBC6079",
+        "Brand": "BC",
+        "Description": "36 SHOT HAPPY",
+        "Shots": 36,
+        "Packing": "24/1",
+        "UnitsPerCase": 24,
+        "UPC": 715244060795
+    },
+    {
+        "StockNumber": "MEF6010",
+        "Brand": "Fox",
+        "Description": "3 MONKEY'S",
+        "Shots": 9,
+        "Packing": "3/16",
+        "UnitsPerCase": 48,
+        "UPC": 514677560106
+    },
+    {
+        "StockNumber": "MEW270",
+        "Brand": "Gen",
+        "Description": "4th of JULY PARADE",
+        "Shots": 20,
+        "Packing": "18/1",
+        "UnitsPerCase": 18,
+        "UPC": 715244082704
+    },
+    {
+        "StockNumber": "MEBC6415",
+        "Brand": "BC",
+        "Description": "61's CLASSIC",
+        "Shots": 61,
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 715244064151
+    },
+    {
+        "StockNumber": "MEBC6446",
+        "Brand": "BC",
+        "Description": "9 LIVES",
+        "Shots": 9,
+        "Packing": "24/1",
+        "UnitsPerCase": 24,
+        "UPC": 715244064465
+    },
+    {
+        "StockNumber": "MELC-W2514",
+        "Brand": "LG",
+        "Description": "BATTLE FOR THE SOUTH",
+        "Shots": 16,
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 120323251498
+    },
+    {
+        "StockNumber": "MEF6092",
+        "Brand": "Fox",
+        "Description": "BEACH BREAK",
+        "Shots": 24,
+        "Packing": "45627",
+        "UnitsPerCase": 12,
+        "UPC": 514677960920
+    },
+    {
+        "StockNumber": "MEBC6534",
+        "Brand": "BC",
+        "Description": "BLACKLIST",
+        "Shots": 25,
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 715244065349
+    },
+    {
+        "StockNumber": "MEBP2098",
+        "Brand": "Bros",
+        "Description": "BLING BLING",
+        "Shots": 36,
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 687985209811
+    },
+    {
+        "StockNumber": "MEBC6389",
+        "Brand": "BC",
+        "Description": "BULL RUN  ",
+        "Shots": 20,
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 715244063895
+    },
+    {
+        "StockNumber": "MEBC6510",
+        "Brand": "BC",
+        "Description": "CALL THE COPS",
+        "Shots": 87,
+        "Packing": "8/1",
+        "UnitsPerCase": 8,
+        "UPC": 715244165100
+    },
+    {
+        "StockNumber": "MELC-W2515",
+        "Brand": "LG",
+        "Description": "CHAOS MACHINE",
+        "Shots": 16,
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 120323251597
+    },
+    {
+        "StockNumber": "MEBC6038",
+        "Brand": "BC",
+        "Description": "COLOR PEARL",
+        "Shots": 48,
+        "Packing": "40/2",
+        "UnitsPerCase": 80,
+        "UPC": 715244060382
+    },
+    {
+        "StockNumber": "MEF6074",
+        "Brand": "Fox",
+        "Description": "COMBO PACK",
+        "Shots": 40,
+        "Packing": "6/2",
+        "UnitsPerCase": 6,
+        "UPC": 514677960746
+    },
+    {
+        "StockNumber": "MEF6084",
+        "Brand": "Fox",
+        "Description": "DARK THUNDER",
+        "Shots": 16,
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 514677060842
+    },
+    {
+        "StockNumber": "MEPS-224",
+        "Brand": "PS",
+        "Description": "DECLASSIFIED (w/ UFO) ",
+        "Shots": 11,
+        "Packing": "45444",
+        "UnitsPerCase": 6,
+        "UPC": 702367266012
+    },
+    {
+        "StockNumber": "MEBC6060",
+        "Brand": "BC",
+        "Description": "DESERT AT NIGHT",
+        "Shots": 7,
+        "Packing": "40/1",
+        "UnitsPerCase": 40,
+        "UPC": 715244160600
+    },
+    {
+        "StockNumber": "MEL930",
+        "Brand": "Gen",
+        "Description": "DESERT AT NIGHT",
+        "Shots": 7,
+        "Packing": "40/1",
+        "UnitsPerCase": 40,
+        "UPC": 514677009308
+    },
+    {
+        "StockNumber": "MEBCC606",
+        "Brand": "BC",
+        "Description": "DRAGON'S LAIR ",
+        "Shots": 16,
+        "Packing": "45536",
+        "UnitsPerCase": 9,
+        "UPC": 715244560608
+    },
+    {
+        "StockNumber": "MEBC6505",
+        "Brand": "BC",
+        "Description": "FEAR CITY",
+        "Shots": 25,
+        "Packing": "16/1",
+        "UnitsPerCase": 16,
+        "UPC": 715244065059
+    },
+    {
+        "StockNumber": "MEBC6449",
+        "Brand": "BC",
+        "Description": "FIREWORKS FIESTA   ",
+        "Shots": 96,
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 715244064496
+    },
+    {
+        "StockNumber": "MEF6090",
+        "Brand": "Fox",
+        "Description": "FROSTY ",
+        "Shots": 8,
+        "Packing": "24/1",
+        "UnitsPerCase": 24,
+        "UPC": 514677060903
+    },
+    {
+        "StockNumber": "MEBC6537",
+        "Brand": "BC",
+        "Description": "FUEGO LOCO",
+        "Shots": 20,
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 715244065370
+    },
+    {
+        "StockNumber": "MEBC6059",
+        "Brand": "BC",
+        "Description": "GARDEN IN SPRING",
+        "Shots": 7,
+        "Packing": "40/1",
+        "UnitsPerCase": 40,
+        "UPC": 715244160594
+    },
+    {
+        "StockNumber": "MEBCC603",
+        "Brand": "BC",
+        "Description": "GEMSTONES ",
+        "Shots": 25,
+        "Packing": "45627",
+        "UnitsPerCase": 12,
+        "UPC": 715244560301
+    },
+    {
+        "StockNumber": "MEBCC602",
+        "Brand": "BC",
+        "Description": "GLITTER DAZE ",
+        "Shots": 16,
+        "Packing": "24/1",
+        "UnitsPerCase": 24,
+        "UPC": 715244560202
+    },
+    {
+        "StockNumber": "MEBC6312A",
+        "Brand": "BC",
+        "Description": "GOD BLESS 'MERICA",
+        "Shots": 20,
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 715244063123
+    },
+    {
+        "StockNumber": "MEF6038",
+        "Brand": "Fox",
+        "Description": "GOLD VEIN",
+        "Shots": 25,
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 514677060385
+    },
+    {
+        "StockNumber": "MEBC6049",
+        "Brand": "BC",
+        "Description": "HAPPY 16's",
+        "Shots": 16,
+        "Packing": "48/1",
+        "UnitsPerCase": 48,
+        "UPC": 715244060498
+    },
+    {
+        "StockNumber": "MEF6004",
+        "Brand": "Fox",
+        "Description": "ICE CUBE",
+        "Shots": 9,
+        "Packing": "48/1",
+        "UnitsPerCase": 48,
+        "UPC": 514677060040
+    },
+    {
+        "StockNumber": "MEBC6447",
+        "Brand": "BC",
+        "Description": "JET",
+        "Shots": 9,
+        "Packing": "24/1",
+        "UnitsPerCase": 24,
+        "UPC": 715244064472
+    },
+    {
+        "StockNumber": "MELC-W2508",
+        "Brand": "LG",
+        "Description": "KYOTO RISING",
+        "Shots": 12,
+        "Packing": "16/1",
+        "UnitsPerCase": 16,
+        "UPC": 120323250897
+    },
+    {
+        "StockNumber": "MEBC6390A",
+        "Brand": "BC",
+        "Description": "LIQUID SKY",
+        "Shots": 20,
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 715244063901
+    },
+    {
+        "StockNumber": "MEF6089",
+        "Brand": "Fox",
+        "Description": "LOUD AND NASTY",
+        "Shots": 12,
+        "Packing": "8/1",
+        "UnitsPerCase": 8,
+        "UPC": 514677060897
+    },
+    {
+        "StockNumber": "MEBP2449",
+        "Brand": "Bros",
+        "Description": "MOBILE MENACE",
+        "Shots": 35,
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 687985244911
+    },
+    {
+        "StockNumber": "MEF6039",
+        "Brand": "Fox",
+        "Description": "MUTANT STRAIN",
+        "Shots": 25,
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 514677060392
+    },
+    {
+        "StockNumber": "MEBC6508",
+        "Brand": "BC",
+        "Description": "NANO BOOM",
+        "Shots": 9,
+        "Packing": "24/1",
+        "UnitsPerCase": 24,
+        "UPC": 715244065080
+    },
+    {
+        "StockNumber": "MEF6091",
+        "Brand": "Fox",
+        "Description": "NEON NOVA ",
+        "Shots": 8,
+        "Packing": "24/1",
+        "UnitsPerCase": 24,
+        "UPC": 514677060910
+    },
+    {
+        "StockNumber": "MEBC531",
+        "Brand": "BC",
+        "Description": "NIGHT DEFENSE",
+        "Shots": 210,
+        "Packing": "8/1",
+        "UnitsPerCase": 8,
+        "UPC": 715244005314
+    },
+    {
+        "StockNumber": "MEF6093",
+        "Brand": "Fox",
+        "Description": "PHOBIA ",
+        "Shots": 16,
+        "Packing": "45627",
+        "UnitsPerCase": 12,
+        "UPC": 514677060934
+    },
+    {
+        "StockNumber": "MEBCC601",
+        "Brand": "BC",
+        "Description": "PIRATE ISLAND ",
+        "Shots": 16,
+        "Packing": "24/1",
+        "UnitsPerCase": 24,
+        "UPC": 715244560103
+    },
+    {
+        "StockNumber": "MEBC6472",
+        "Brand": "BC",
+        "Description": "POLARIS",
+        "Shots": 25,
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 715244064724
+    },
+    {
+        "StockNumber": "MEF6076",
+        "Brand": "Fox",
+        "Description": "PREMIUM WILLOW ",
+        "Shots": 25,
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 514677060767
+    },
+    {
+        "StockNumber": "MEBC6471",
+        "Brand": "BC",
+        "Description": "PRO 200",
+        "Shots": 16,
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 715244064717
+    },
+    {
+        "StockNumber": "MEBC6507",
+        "Brand": "BC",
+        "Description": "RUMBLE",
+        "Shots": 16,
+        "Packing": "45505",
+        "UnitsPerCase": 8,
+        "UPC": 715244065073
+    },
+    {
+        "StockNumber": "MEF6011",
+        "Brand": "Fox",
+        "Description": "SINISTER ",
+        "Shots": 6,
+        "Packing": "18/1",
+        "UnitsPerCase": 18,
+        "UPC": 514677060118
+    },
+    {
+        "StockNumber": "MEBC6530",
+        "Brand": "BC",
+        "Description": "SKY INK",
+        "Shots": 16,
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 715244065301
+    },
+    {
+        "StockNumber": "MEBC6506",
+        "Brand": "BC",
+        "Description": "SKY VANDAL",
+        "Shots": 16,
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 715244065066
+    },
+    {
+        "StockNumber": "MEF6100",
+        "Brand": "Fox",
+        "Description": "SOL Y LUNA",
+        "Shots": 18,
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 514677061009
+    },
+    {
+        "StockNumber": "MEF6075",
+        "Brand": "Fox",
+        "Description": "SPIRAL VORTEX ",
+        "Shots": 25,
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 514677060750
+    },
+    {
+        "StockNumber": "MEBC6466",
+        "Brand": "BC",
+        "Description": "SMASH N GRAB",
+        "Shots": 16,
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 715244064663
+    },
+    {
+        "StockNumber": "MEF6097",
+        "Brand": "Fox",
+        "Description": "STELLAR STRIKE",
+        "Shots": 36,
+        "Packing": "8/1",
+        "UnitsPerCase": 8,
+        "UPC": 514677060972
+    },
+    {
+        "StockNumber": "MEWPP-6007",
+        "Brand": "Win",
+        "Description": "STREET FIGHT",
+        "Shots": 25,
+        "Packing": "16/1",
+        "UnitsPerCase": 16,
+        "UPC": 214345060074
+    },
+    {
+        "StockNumber": "MEBC6509",
+        "Brand": "BC",
+        "Description": "STREET TAKEOVER",
+        "Shots": 20,
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 715244065097
+    },
+    {
+        "StockNumber": "MEF6079",
+        "Brand": "Fox",
+        "Description": "SUMMER GARDEN",
+        "Shots": 7,
+        "Packing": "48/1",
+        "UnitsPerCase": 48,
+        "UPC": 514677060798
+    },
+    {
+        "StockNumber": "MEBC6452",
+        "Brand": "BC",
+        "Description": "THUNDERMANIA",
+        "Shots": 32,
+        "Packing": "6/2",
+        "UnitsPerCase": 6,
+        "UPC": 715244064526
+    },
+    {
+        "StockNumber": "MEBC6278",
+        "Brand": "BC",
+        "Description": "ULTRA 96",
+        "Shots": 96,
+        "Packing": "40/1",
+        "UnitsPerCase": 40,
+        "UPC": 715244062782
+    },
+    {
+        "StockNumber": "MEF6096",
+        "Brand": "Fox",
+        "Description": "UNITY",
+        "Shots": 7,
+        "Packing": "48/1",
+        "UnitsPerCase": 48,
+        "UPC": 514677060965
+    },
+    {
+        "StockNumber": "MEPS-221",
+        "Brand": "PS",
+        "Description": "VIBIN'",
+        "Shots": 41,
+        "Packing": "45627",
+        "UnitsPerCase": 12,
+        "UPC": 702367266005
+    },
+    {
+        "StockNumber": "MEBCC604",
+        "Brand": "BC",
+        "Description": "WICKED THRONE ",
+        "Shots": 21,
+        "Packing": "45627",
+        "UnitsPerCase": 12,
+        "UPC": 715244560400
+    },
+    {
+        "StockNumber": "MEP5205",
+        "Brand": "Win",
+        "Description": "WILD WILD WILLOWS",
+        "Shots": 10,
+        "Packing": "8/1",
+        "UnitsPerCase": 8,
+        "UPC": 705108520503
+    },
+    {
+        "StockNumber": "MEF6007",
+        "Brand": "Fox",
+        "Description": "YELLOW FEVER",
+        "Shots": 6,
+        "Packing": "18/1",
+        "UnitsPerCase": 18,
+        "UPC": 514677060071
+    },
+    {
+        "StockNumber": "MEBC679",
+        "Brand": "BC",
+        "Description": "25's MISSILE BASE",
+        "Shots": 25,
+        "Packing": "120/1",
+        "UnitsPerCase": 120,
+        "UPC": 715244006793
+    },
+    {
+        "StockNumber": "MEBC680",
+        "Brand": "BC",
+        "Description": "100's MISSILE BASE",
+        "Shots": 100,
+        "Packing": "30/1",
+        "UnitsPerCase": 30,
+        "UPC": 715244006809
+    },
+    {
+        "StockNumber": "MEBC6414",
+        "Brand": "BC",
+        "Description": "250's SATURN MSL BATTERY",
+        "Shots": 250,
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 715244064144
+    },
+    {
+        "StockNumber": "MESSM1130-3",
+        "Brand": "Sho",
+        "Description": "300's SATURN MSL BATTERY",
+        "Shots": 300,
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 680149008879
+    },
+    {
+        "StockNumber": "MEWDN103",
+        "Brand": "Gen",
+        "Description": "400's SATURN MSL BATTERY",
+        "Shots": 400,
+        "Packing": "8/1",
+        "UnitsPerCase": 8,
+        "UPC": 813559004258
+    },
+    {
+        "StockNumber": "MEBC6279",
+        "Brand": "BC",
+        "Description": "GOING HAYWIRE",
+        "Shots": 300,
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 715244062799
+    },
+    {
+        "StockNumber": "MEBC6456",
+        "Brand": "BC",
+        "Description": "DRAGON FIST  ",
+        "Shots": 8,
+        "Packing": "8/1",
+        "UnitsPerCase": 8,
+        "UPC": 715244064564
+    },
+    {
+        "StockNumber": "MEBC6457",
+        "Brand": "BC",
+        "Description": "DRIFT KING",
+        "Shots": 8,
+        "Packing": "8/1",
+        "UnitsPerCase": 8,
+        "UPC": 715244064571
+    },
+    {
+        "StockNumber": "MEF6002",
+        "Brand": "Fox",
+        "Description": "HILLBILLY LUNATIC ",
+        "Shots": 8,
+        "Packing": "8/1",
+        "UnitsPerCase": 8,
+        "UPC": 652009118004
+    },
+    {
+        "StockNumber": "MEF6001",
+        "Brand": "Fox",
+        "Description": "MAD DOCTOR ",
+        "Shots": 8,
+        "Packing": "8/1",
+        "UnitsPerCase": 8,
+        "UPC": 652009117007
+    },
+    {
+        "StockNumber": "MEBC6455",
+        "Brand": "BC",
+        "Description": "VAMPIRE HUNTER ",
+        "Shots": 8,
+        "Packing": "8/1",
+        "UnitsPerCase": 8,
+        "UPC": 715244064557
+    },
+    {
+        "StockNumber": "MEBC6458A",
+        "Brand": "BC",
+        "Description": "ABSOLUTE DESTRUCTION",
+        "Shots": 49,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 715244064588
+    },
+    {
+        "StockNumber": "MEBCC610A",
+        "Brand": "BC",
+        "Description": "AERIAL CHAMELEON",
+        "Shots": 16,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 715244561001
+    },
+    {
+        "StockNumber": "MEWB008",
+        "Brand": "Bros",
+        "Description": "ALIEN UPRISING",
+        "Shots": 30,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 687985985210
+    },
+    {
+        "StockNumber": "MEBC6468",
+        "Brand": "BC",
+        "Description": "AMERICAN CLASSIC",
+        "Shots": 19,
+        "Packing": "8/1",
+        "UnitsPerCase": 8,
+        "UPC": 715244064687
+    },
+    {
+        "StockNumber": "MEBC6479",
+        "Brand": "BC",
+        "Description": "AMERICAN SUMMER",
+        "Shots": 36,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 715244064793
+    },
+    {
+        "StockNumber": "MEF6016",
+        "Brand": "Fox",
+        "Description": "BACKYARD PRO",
+        "Shots": 36,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 514677060163
+    },
+    {
+        "StockNumber": "MEBC6512",
+        "Brand": "BC",
+        "Description": "BIG AMERICAN",
+        "Shots": 8,
+        "Packing": "45383",
+        "UnitsPerCase": 4,
+        "UPC": 715244065127
+    },
+    {
+        "StockNumber": "MEBC6531",
+        "Brand": "BC",
+        "Description": "BLAZING RAIN",
+        "Shots": 29,
+        "Packing": "2/1",
+        "UnitsPerCase": 2,
+        "UPC": 715244065318
+    },
+    {
+        "StockNumber": "MEBP2975",
+        "Brand": "Bros",
+        "Description": "BLOND JOKE",
+        "Shots": 36,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 687985297511
+    },
+    {
+        "StockNumber": "MEBC6434",
+        "Brand": "BC",
+        "Description": "BORN COUNTRY",
+        "Shots": 15,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 715244064342
+    },
+    {
+        "StockNumber": "MEBC6462",
+        "Brand": "BC",
+        "Description": "CARIBBEAN PALMS",
+        "Shots": 20,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 715244064625
+    },
+    {
+        "StockNumber": "MEPS-233",
+        "Brand": "PS",
+        "Description": "CHRONIC WILLOW",
+        "Shots": 25,
+        "Packing": "45383",
+        "UnitsPerCase": 4,
+        "UPC": 702367266029
+    },
+    {
+        "StockNumber": "MEF6012",
+        "Brand": "Fox",
+        "Description": "CLUB 54",
+        "Shots": 54,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 514677060125
+    },
+    {
+        "StockNumber": "MEBC6476",
+        "Brand": "BC",
+        "Description": "COLOR DEMON ",
+        "Shots": 36,
+        "Packing": "2/1",
+        "UnitsPerCase": 2,
+        "UPC": 715244064762
+    },
+    {
+        "StockNumber": "MEBC6448",
+        "Brand": "BC",
+        "Description": "COLOR WAR  ",
+        "Shots": 48,
+        "Packing": "2/1",
+        "UnitsPerCase": 2,
+        "UPC": 715244064489
+    },
+    {
+        "StockNumber": "MEBCC613",
+        "Brand": "BC",
+        "Description": "COSMIC AMBUSH",
+        "Shots": 24,
+        "Packing": "45383",
+        "UnitsPerCase": 4,
+        "UPC": 715244561308
+    },
+    {
+        "StockNumber": "MEBC6525",
+        "Brand": "BC",
+        "Description": "COSMIC DEBRIS",
+        "Shots": 19,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 715244065257
+    },
+    {
+        "StockNumber": "MEF6069",
+        "Brand": "Fox",
+        "Description": "DARK ARTS",
+        "Shots": 12,
+        "Packing": "6/1",
+        "UnitsPerCase": 6,
+        "UPC": 514677060699
+    },
+    {
+        "StockNumber": "MEF6018",
+        "Brand": "Fox",
+        "Description": "DEEP OCEAN",
+        "Shots": 45,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 514677060187
+    },
+    {
+        "StockNumber": "MEBC6375",
+        "Brand": "BC",
+        "Description": "DIAMOND SPLITTER",
+        "Shots": 7,
+        "Packing": "6/1",
+        "UnitsPerCase": 6,
+        "UPC": 715244063758
+    },
+    {
+        "StockNumber": "MEF6014",
+        "Brand": "Fox",
+        "Description": "DIAMONDS IN THE SKY",
+        "Shots": 30,
+        "Packing": "6/1",
+        "UnitsPerCase": 6,
+        "UPC": 514677060149
+    },
+    {
+        "StockNumber": "MEBC6542",
+        "Brand": "BC",
+        "Description": "ELECTRIC HEX",
+        "Shots": 28,
+        "Packing": "2/1",
+        "UnitsPerCase": 2,
+        "UPC": 715244065424
+    },
+    {
+        "StockNumber": "MEF6024",
+        "Brand": "Fox",
+        "Description": "EVIL JESTER ",
+        "Shots": 25,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 514677060248
+    },
+    {
+        "StockNumber": "MEF6006",
+        "Brand": "Fox",
+        "Description": "FLUORESCENT ",
+        "Shots": 16,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 625009060062
+    },
+    {
+        "StockNumber": "MEPS-238",
+        "Brand": "PS",
+        "Description": "FOREVER LOYAL",
+        "Shots": 25,
+        "Packing": "45383",
+        "UnitsPerCase": 4,
+        "UPC": 702367266043
+    },
+    {
+        "StockNumber": "MEBCC607",
+        "Brand": "BC",
+        "Description": "GOBLIN KING",
+        "Shots": 24,
+        "Packing": "45383",
+        "UnitsPerCase": 4,
+        "UPC": 715244560707
+    },
+    {
+        "StockNumber": "MEBC6459",
+        "Brand": "BC",
+        "Description": "GUNFIGHTER FROM HELL",
+        "Shots": 49,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 715244064595
+    },
+    {
+        "StockNumber": "MEBP2457",
+        "Brand": "Bros",
+        "Description": "HIGH FALUTIN'  ",
+        "Shots": 49,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 687985245710
+    },
+    {
+        "StockNumber": "MEBP2458",
+        "Brand": "Bros",
+        "Description": "HIT THE ROAD JACK ",
+        "Shots": 49,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 687985245819
+    },
+    {
+        "StockNumber": "MEBCC608",
+        "Brand": "BC",
+        "Description": "HOLY FINALE!",
+        "Shots": 36,
+        "Packing": "45383",
+        "UnitsPerCase": 4,
+        "UPC": 715244560806
+    },
+    {
+        "StockNumber": "MEBC6432",
+        "Brand": "BC",
+        "Description": "HOT MAMA ",
+        "Shots": 15,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 715244064328
+    },
+    {
+        "StockNumber": "MEPS-235",
+        "Brand": "PS",
+        "Description": "HOWLING MENACE",
+        "Shots": 25,
+        "Packing": "45383",
+        "UnitsPerCase": 4,
+        "UPC": 702367266036
+    },
+    {
+        "StockNumber": "MEP5560",
+        "Brand": "Win",
+        "Description": "INSURGENT UPRISING",
+        "Shots": 38,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 705108556007
+    },
+    {
+        "StockNumber": "MEP5569",
+        "Brand": "Win",
+        "Description": "KING CAKE",
+        "Shots": 20,
+        "Packing": "45383",
+        "UnitsPerCase": 4,
+        "UPC": 705108556908
+    },
+    {
+        "StockNumber": "MEBC6504",
+        "Brand": "BC",
+        "Description": "KINGDOM",
+        "Shots": 16,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 715244065042
+    },
+    {
+        "StockNumber": "MEF6077",
+        "Brand": "Fox",
+        "Description": "LOUD, PROUD & PUNK ",
+        "Shots": 15,
+        "Packing": "6/1",
+        "UnitsPerCase": 6,
+        "UPC": 514677060774
+    },
+    {
+        "StockNumber": "MEBC6535",
+        "Brand": "BC",
+        "Description": "MASS CONFUSION",
+        "Shots": 45,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 715244065356
+    },
+    {
+        "StockNumber": "MEWPP-6006",
+        "Brand": "Win",
+        "Description": "METAL BLADE",
+        "Shots": 30,
+        "Packing": "45383",
+        "UnitsPerCase": 4,
+        "UPC": 214345060067
+    },
+    {
+        "StockNumber": "MEBC6477",
+        "Brand": "BC",
+        "Description": "MUMMY DUST",
+        "Shots": 20,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 715244064779
+    },
+    {
+        "StockNumber": "MEF6066",
+        "Brand": "Fox",
+        "Description": "MURDER HORNETS",
+        "Shots": 42,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 514677060668
+    },
+    {
+        "StockNumber": "MEF6067",
+        "Brand": "Fox",
+        "Description": "MYTHICAL CREATURE ",
+        "Shots": 25,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 514677060675
+    },
+    {
+        "StockNumber": "MEBCC611",
+        "Brand": "BC",
+        "Description": "NEON NIGHTMARE",
+        "Shots": 25,
+        "Packing": "45383",
+        "UnitsPerCase": 4,
+        "UPC": 715244561100
+    },
+    {
+        "StockNumber": "MEBC6430",
+        "Brand": "BC",
+        "Description": "NIGHT HOWLER",
+        "Shots": 15,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 715244064304
+    },
+    {
+        "StockNumber": "MEF6098",
+        "Brand": "Fox",
+        "Description": "OUT OF THE BLUE",
+        "Shots": 25,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 514677060989
+    },
+    {
+        "StockNumber": "MEF6019",
+        "Brand": "Fox",
+        "Description": "OUTLAW JUSTICE ",
+        "Shots": 36,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 514677060194
+    },
+    {
+        "StockNumber": "MEBC6478",
+        "Brand": "BC",
+        "Description": "PARTY ISLAND ",
+        "Shots": 20,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 715244064786
+    },
+    {
+        "StockNumber": "MEF6101",
+        "Brand": "Fox",
+        "Description": "PATRIOT CHICKEN",
+        "Shots": 720,
+        "Packing": "1/1",
+        "UnitsPerCase": 1,
+        "UPC": 514677061016
+    },
+    {
+        "StockNumber": "MEBCC615",
+        "Brand": "BC",
+        "Description": "PISTIL WHIP",
+        "Shots": 16,
+        "Packing": "45383",
+        "UnitsPerCase": 4,
+        "UPC": 715244561506
+    },
+    {
+        "StockNumber": "MEBCC609",
+        "Brand": "BC",
+        "Description": "PRO 500",
+        "Shots": 36,
+        "Packing": "45383",
+        "UnitsPerCase": 4,
+        "UPC": 715244560905
+    },
+    {
+        "StockNumber": "MEBC6536",
+        "Brand": "BC",
+        "Description": "PYROTHON",
+        "Shots": 49,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 715244065363
+    },
+    {
+        "StockNumber": "MEWPP-6005",
+        "Brand": "Win",
+        "Description": "RETURN TO ROSWELL",
+        "Shots": 28,
+        "Packing": "2/1",
+        "UnitsPerCase": 2,
+        "UPC": 214345060050
+    },
+    {
+        "StockNumber": "MEF6037",
+        "Brand": "Fox",
+        "Description": "RIDE THE PYRO",
+        "Shots": 16,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 514677060378
+    },
+    {
+        "StockNumber": "MEBC6475",
+        "Brand": "BC",
+        "Description": "SCRAMBLED",
+        "Shots": 17,
+        "Packing": "6/1",
+        "UnitsPerCase": 6,
+        "UPC": 715244064755
+    },
+    {
+        "StockNumber": "MEBC6372-3",
+        "Brand": "BC",
+        "Description": "SHARK BITE ",
+        "Shots": 15,
+        "Packing": "6/1",
+        "UnitsPerCase": 6,
+        "UPC": 715244363728
+    },
+    {
+        "StockNumber": "MEBC6524",
+        "Brand": "BC",
+        "Description": "SKY INVADER",
+        "Shots": 20,
+        "Packing": "6/1",
+        "UnitsPerCase": 6,
+        "UPC": 715244065240
+    },
+    {
+        "StockNumber": "MEBC6515",
+        "Brand": "BC",
+        "Description": "SUPER COLLIDER",
+        "Shots": 18,
+        "Packing": "45383",
+        "UnitsPerCase": 4,
+        "UPC": 715244065158
+    },
+    {
+        "StockNumber": "MEBC6541",
+        "Brand": "BC",
+        "Description": "SUPER CYCLONE",
+        "Shots": 28,
+        "Packing": "2/1",
+        "UnitsPerCase": 2,
+        "UPC": 715244065417
+    },
+    {
+        "StockNumber": "MEF6015A",
+        "Brand": "Fox",
+        "Description": "TIME TRAVEL",
+        "Shots": 63,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 514677060156
+    },
+    {
+        "StockNumber": "MEBCC612",
+        "Brand": "BC",
+        "Description": "TOTALLY JACKED",
+        "Shots": 25,
+        "Packing": "45383",
+        "UnitsPerCase": 4,
+        "UPC": 715244561209
+    },
+    {
+        "StockNumber": "MEBC6431",
+        "Brand": "BC",
+        "Description": "TRUE BLUE PATRIOT",
+        "Shots": 15,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 715244064311
+    },
+    {
+        "StockNumber": "MEBC6433A",
+        "Brand": "BC",
+        "Description": "TWO MINUTE FIREWORKS SHOW ",
+        "Shots": 63,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 715244064335
+    },
+    {
+        "StockNumber": "MEPK9511",
+        "Brand": "LG",
+        "Description": "VENOM",
+        "Shots": 39,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 121611951113
+    },
+    {
+        "StockNumber": "MEBC6513",
+        "Brand": "BC",
+        "Description": "VICTORY! ",
+        "Shots": 16,
+        "Packing": "45383",
+        "UnitsPerCase": 4,
+        "UPC": 715244065134
+    },
+    {
+        "StockNumber": "MEBC6461",
+        "Brand": "BC",
+        "Description": "VOODOO RAIN",
+        "Shots": 36,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 715244064618
+    },
+    {
+        "StockNumber": "MEF6099",
+        "Brand": "Fox",
+        "Description": "WILLOW RAIN",
+        "Shots": 9,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 514677060996
+    },
+    {
+        "StockNumber": "MEBC6393",
+        "Brand": "BC",
+        "Description": "BLACK CAT COMBO CAKES                                    ",
+        "Shots": 60,
+        "Packing": "1/4",
+        "UnitsPerCase": 1,
+        "UPC": 715244963935
+    },
+    {
+        "StockNumber": "ATBCBB01",
+        "Brand": "BC",
+        "Description": "BOOM BOX                                                                ",
+        "Shots": 174,
+        "Packing": "2/9",
+        "UnitsPerCase": 2,
+        "UPC": 715244800063
+    },
+    {
+        "StockNumber": "ATBCDK01",
+        "Brand": "BC",
+        "Description": "DEMO KIT",
+        "Shots": 333,
+        "Packing": "1/16",
+        "UnitsPerCase": 1,
+        "UPC": 715244800056
+    },
+    {
+        "StockNumber": "MEBCC605",
+        "Brand": "BC",
+        "Description": "HORROR SHOW ",
+        "Shots": 196,
+        "Packing": "45295",
+        "UnitsPerCase": 1,
+        "UPC": 715244556052
+    },
+    {
+        "StockNumber": "MEP5549",
+        "Brand": "Win",
+        "Description": "IPA 4-PACK",
+        "Shots": 144,
+        "Packing": "1/4",
+        "UnitsPerCase": 1,
+        "UPC": 705108955497
+    },
+    {
+        "StockNumber": "MEBC6528",
+        "Brand": "BC",
+        "Description": "MISSION CONTROL",
+        "Shots": 50,
+        "Packing": "1/2",
+        "UnitsPerCase": 1,
+        "UPC": 715244065288
+    },
+    {
+        "StockNumber": "MEBP-A090",
+        "Brand": "Bros",
+        "Description": "MOB MADNESS",
+        "Shots": 196,
+        "Packing": "1/4",
+        "UnitsPerCase": 1,
+        "UPC": 687985909094
+    },
+    {
+        "StockNumber": "MEBC6464",
+        "Brand": "BC",
+        "Description": "PROUD TO BE AN AMERICAN",
+        "Shots": 42,
+        "Packing": "45294",
+        "UnitsPerCase": 1,
+        "UPC": 715244964642
+    },
+    {
+        "StockNumber": "MEF6031",
+        "Brand": "Fox",
+        "Description": "SKY RAVE ",
+        "Shots": 208,
+        "Packing": "2/2",
+        "UnitsPerCase": 1,
+        "UPC": 514677460314
+    },
+    {
+        "StockNumber": "MEBC6465",
+        "Brand": "BC",
+        "Description": "THE FAMILY",
+        "Shots": 60,
+        "Packing": "1/4",
+        "UnitsPerCase": 1,
+        "UPC": 715244964659
+    },
+    {
+        "StockNumber": "MEF6040",
+        "Brand": "Fox",
+        "Description": "UFO APOCALYPSE ",
+        "Shots": 64,
+        "Packing": "1/4",
+        "UnitsPerCase": 1,
+        "UPC": 514677260402
+    },
+    {
+        "StockNumber": "MEBC6511",
+        "Brand": "BC",
+        "Description": "USA STRONG",
+        "Shots": 64,
+        "Packing": "45295",
+        "UnitsPerCase": 1,
+        "UPC": 715244965113
+    },
+    {
+        "StockNumber": "MEBC6514",
+        "Brand": "BC",
+        "Description": "WILD, WILD WEST ASSORTMENT 49's ea.",
+        "Shots": 196,
+        "Packing": "45295",
+        "UnitsPerCase": 1,
+        "UPC": 715244965144
+    },
+    {
+        "StockNumber": "MEBC6401",
+        "Brand": "BC",
+        "Description": "1000 GRAM DISPLAY",
+        "Shots": 51,
+        "Packing": "1/2",
+        "UnitsPerCase": 1,
+        "UPC": 715244964017
+    },
+    {
+        "StockNumber": "MEBC6404",
+        "Brand": "BC",
+        "Description": "1000 GRAM FINALE",
+        "Shots": 74,
+        "Packing": "1/2",
+        "UnitsPerCase": 1,
+        "UPC": 715244964048
+    },
+    {
+        "StockNumber": "MEBC6529",
+        "Brand": "BC",
+        "Description": "AMERICAN FREEDOM TRAIN",
+        "Shots": 180,
+        "Packing": "1/3",
+        "UnitsPerCase": 1,
+        "UPC": 715244065295
+    },
+    {
+        "StockNumber": "MEBC6521",
+        "Brand": "BC",
+        "Description": "BLACK CAT FINALE",
+        "Shots": 72,
+        "Packing": "1/3",
+        "UnitsPerCase": 1,
+        "UPC": 715244965212
+    },
+    {
+        "StockNumber": "MEP5599",
+        "Brand": "Win",
+        "Description": "BORN LEADERS",
+        "Shots": 757,
+        "Packing": "1/3",
+        "UnitsPerCase": 1,
+        "UPC": 705108955992
+    },
+    {
+        "StockNumber": "MEF6103",
+        "Brand": "Fox",
+        "Description": "COLOR WATERFALL",
+        "Shots": 28,
+        "Packing": "1/2",
+        "UnitsPerCase": 1,
+        "UPC": 514677061030
+    },
+    {
+        "StockNumber": "MEBC6522",
+        "Brand": "BC",
+        "Description": "DOUBLE XL",
+        "Shots": 444,
+        "Packing": "1/2",
+        "UnitsPerCase": 1,
+        "UPC": 715244965229
+    },
+    {
+        "StockNumber": "MELC-W5250",
+        "Brand": "LG",
+        "Description": "HOA VIOLATION",
+        "Shots": 250,
+        "Packing": "1/3",
+        "UnitsPerCase": 1,
+        "UPC": 120323525001
+    },
+    {
+        "StockNumber": "MEBC6545",
+        "Brand": "BC",
+        "Description": "HOWL YEAH!",
+        "Shots": 653,
+        "Packing": "1/3",
+        "UnitsPerCase": 1,
+        "UPC": 715244065455
+    },
+    {
+        "StockNumber": "MEPS-183",
+        "Brand": "PS",
+        "Description": "SOUND CHECK  ",
+        "Shots": 48,
+        "Packing": "1/2",
+        "UnitsPerCase": 1,
+        "UPC": 702367265060
+    },
+    {
+        "StockNumber": "MEBCC617",
+        "Brand": "BC",
+        "Description": "MAGIC MUSHROOM",
+        "Shots": 9,
+        "Packing": "45323",
+        "UnitsPerCase": 2,
+        "UPC": 715244561704
+    },
+    {
+        "StockNumber": "MEP5494",
+        "Brand": "Win",
+        "Description": "MOTHER OF ALL BOMBS",
+        "Shots": 9,
+        "Packing": "45323",
+        "UnitsPerCase": 2,
+        "UPC": 705108549405
+    },
+    {
+        "StockNumber": "MEBCC616",
+        "Brand": "BC",
+        "Description": "PLANET 9 ATTACKS",
+        "Shots": 9,
+        "Packing": "45323",
+        "UnitsPerCase": 2,
+        "UPC": 715244561605
+    },
+    {
+        "StockNumber": "MEPS-188",
+        "Brand": "PS",
+        "Description": "RINGLEADER ",
+        "Shots": 9,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 702367265367
+    },
+    {
+        "StockNumber": "MEBP2501",
+        "Brand": "Bros",
+        "Description": "WHACKY TOBACKY   ",
+        "Shots": 9,
+        "Packing": "2/1",
+        "UnitsPerCase": 2,
+        "UPC": 687985250110
+    },
+    {
+        "StockNumber": "MEF6102",
+        "Brand": "Fox",
+        "Description": "ALWAYS REMEMBER",
+        "Shots": 300,
+        "Packing": "1/1",
+        "UnitsPerCase": 1,
+        "UPC": 514677961026
+    },
+    {
+        "StockNumber": "MEJP-6104",
+        "Brand": "JP",
+        "Description": "AMMO CRATE ",
+        "Shots": 182,
+        "Packing": "1/1",
+        "UnitsPerCase": 1,
+        "UPC": 652009961044
+    },
+    {
+        "StockNumber": "MEBC6407A",
+        "Brand": "BC",
+        "Description": "COMBAT ZONE - full color case",
+        "Shots": 120,
+        "Packing": "1/1",
+        "UnitsPerCase": 1,
+        "UPC": 715244864072
+    },
+    {
+        "StockNumber": "MEBC6469",
+        "Brand": "BC",
+        "Description": "FIESTA GRANDE",
+        "Shots": 216,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 715244064694
+    },
+    {
+        "StockNumber": "MELC5026",
+        "Brand": "LG",
+        "Description": "MASS OF FIRE  ",
+        "Shots": 156,
+        "Packing": "2/1",
+        "UnitsPerCase": 2,
+        "UPC": 171203502605
+    },
+    {
+        "StockNumber": "MEBC6480",
+        "Brand": "BC",
+        "Description": "NEON COWBOY ",
+        "Shots": 126,
+        "Packing": "6/1",
+        "UnitsPerCase": 6,
+        "UPC": 715244064809
+    },
+    {
+        "StockNumber": "MEBC6403",
+        "Brand": "BC",
+        "Description": "NEON PEACOCK ",
+        "Shots": 93,
+        "Packing": "2/1",
+        "UnitsPerCase": 2,
+        "UPC": 715244064038
+    },
+    {
+        "StockNumber": "MEBC6481",
+        "Brand": "BC",
+        "Description": "SALUTE TO SERVICE ",
+        "Shots": 170,
+        "Packing": "1/1",
+        "UnitsPerCase": 1,
+        "UPC": 715244064816
+    },
+    {
+        "StockNumber": "MEF6013",
+        "Brand": "Fox",
+        "Description": "STAR CHASER  ",
+        "Shots": 115,
+        "Packing": "2/1",
+        "UnitsPerCase": 2,
+        "UPC": 514677060132
+    },
+    {
+        "StockNumber": "MEJP-653",
+        "Brand": "JP",
+        "Description": "WAR GAME       ",
+        "Shots": 156,
+        "Packing": "1/1",
+        "UnitsPerCase": 1,
+        "UPC": 652009906533
+    },
+    {
+        "StockNumber": "MSF1000",
+        "Brand": "Fox",
+        "Description": "STRIKE FORCE 12\" MISSLE",
+        "Packing": "18/4",
+        "UnitsPerCase": 18,
+        "UPC": 514677010007
+    },
+    {
+        "StockNumber": "MSF1002",
+        "Brand": "Fox",
+        "Description": "STROBE MISSILE",
+        "Packing": "12/2",
+        "UnitsPerCase": 12,
+        "UPC": 514677010021
+    },
+    {
+        "StockNumber": "MSF1001",
+        "Brand": "Fox",
+        "Description": "THOR 7\" MISSILE",
+        "Packing": "24/6",
+        "UnitsPerCase": 24,
+        "UPC": 514677110011
+    },
+    {
+        "StockNumber": "ASZ1041",
+        "Brand": "ZEN",
+        "Description": "REBEL BLASTER",
+        "Shots": 10,
+        "Packing": "2/1",
+        "UnitsPerCase": 2,
+        "UPC": 915000000007
+    },
+    {
+        "StockNumber": "ASZ1500",
+        "Brand": "ZEN",
+        "Description": "#1500 POWDER KEG",
+        "Shots": 11,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 840125030052
+    },
+    {
+        "StockNumber": "ASZBC900",
+        "Brand": "BC",
+        "Description": "#600 AERIAL CROSSFIRE   ",
+        "Shots": 11,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 715244709007
+    },
+    {
+        "StockNumber": "ASZ950",
+        "Brand": "ZEN",
+        "Description": "#600 PROUD GLORY",
+        "Shots": 15,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 652009110282
+    },
+    {
+        "StockNumber": "NVBC3001",
+        "Brand": "BC",
+        "Description": "COAST GUARD",
+        "Packing": "36/1",
+        "UnitsPerCase": 36,
+        "UPC": 715244130016
+    },
+    {
+        "StockNumber": "NVBC398",
+        "Brand": "BC",
+        "Description": "COLOR MINE",
+        "Packing": "40/3",
+        "UnitsPerCase": 40,
+        "UPC": 715244103980
+    },
+    {
+        "StockNumber": "NVF308",
+        "Brand": "Fox",
+        "Description": "COOP! There it is!",
+        "Packing": "36/4",
+        "UnitsPerCase": 36,
+        "UPC": 514677003085
+    },
+    {
+        "StockNumber": "NVBC340",
+        "Brand": "BC",
+        "Description": "CRACKER BALLS    ",
+        "Packing": "4/48/6",
+        "UnitsPerCase": 192,
+        "UPC": 715244003402
+    },
+    {
+        "StockNumber": "NVBC385",
+        "Brand": "BC",
+        "Description": "DEN OF SNAKES    ",
+        "Packing": "12/12",
+        "UnitsPerCase": 144,
+        "UPC": 715244103850
+    },
+    {
+        "StockNumber": "NVJP-345",
+        "Brand": "JP",
+        "Description": "DOGGIE DOO DOO   ",
+        "Packing": "2/72",
+        "UnitsPerCase": 144,
+        "UPC": 652009903457
+    },
+    {
+        "StockNumber": "NVLPN7047",
+        "Brand": "Fox",
+        "Description": "DRAGON FIRE (plastic)  ",
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 811451015150
+    },
+    {
+        "StockNumber": "NVF306",
+        "Brand": "Fox",
+        "Description": "DUCKY (plastic)",
+        "Packing": "18/2",
+        "UnitsPerCase": 18,
+        "UPC": 514677003061
+    },
+    {
+        "StockNumber": "NVBC391A",
+        "Brand": "BC",
+        "Description": "GROUND MINE ",
+        "Packing": "3/18/4",
+        "UnitsPerCase": 54,
+        "UPC": 715244013913
+    },
+    {
+        "StockNumber": "NVW701X",
+        "Brand": "Gen",
+        "Description": "HEN LAYING EGGS",
+        "Packing": "12/24",
+        "UnitsPerCase": 288
+    },
+    {
+        "StockNumber": "NVBC260",
+        "Brand": "BC",
+        "Description": "MAGNUM FLASHER  ",
+        "Packing": "240/5",
+        "UnitsPerCase": 240,
+        "UPC": 715244002603
+    },
+    {
+        "StockNumber": "XXMF1002",
+        "Brand": "Gen",
+        "Description": "MYSTICAL FIRE  ",
+        "Packing": "4/50",
+        "UnitsPerCase": 200,
+        "UPC": 777319103448
+    },
+    {
+        "StockNumber": "NVF310",
+        "Brand": "Fox",
+        "Description": "OL' RED",
+        "Packing": "36/1",
+        "UnitsPerCase": 36,
+        "UPC": 514677003108
+    },
+    {
+        "StockNumber": "NVBC341A",
+        "Brand": "BC",
+        "Description": "PARTY POPPER   ",
+        "Packing": "12/24/6",
+        "UnitsPerCase": 288,
+        "UPC": 715244034161
+    },
+    {
+        "StockNumber": "NVST8502B",
+        "Brand": "Sho",
+        "Description": "PARTY POPPERS",
+        "Packing": "72/12",
+        "UnitsPerCase": 72,
+        "UPC": 680149023537
+    },
+    {
+        "StockNumber": "NVBC3000",
+        "Brand": "BC",
+        "Description": "PATRIOT DEFENDER (confetti cannon)",
+        "Packing": "36/2",
+        "UnitsPerCase": 36,
+        "UPC": 715244130009
+    },
+    {
+        "StockNumber": "NVP6023A",
+        "Brand": "Win",
+        "Description": "POOP!! (plastic)",
+        "Packing": "2/40",
+        "UnitsPerCase": 80,
+        "UPC": 705108602308
+    },
+    {
+        "StockNumber": "NVTS0001",
+        "Brand": "Gen",
+        "Description": "POOPING ELEPHANT",
+        "Packing": "2/72",
+        "UnitsPerCase": 144,
+        "UPC": 652009903464
+    },
+    {
+        "StockNumber": "NVBC344",
+        "Brand": "BC",
+        "Description": "SNAKES - Assorted",
+        "Packing": "144/6",
+        "UnitsPerCase": 144,
+        "UPC": 715244003440
+    },
+    {
+        "StockNumber": "NVBC335AA",
+        "Brand": "BC",
+        "Description": "SNAPPERS - BC SUPER (large)",
+        "Packing": "6/40/50",
+        "UnitsPerCase": 240,
+        "UPC": 715244043354
+    },
+    {
+        "StockNumber": "NVBC335BB",
+        "Brand": "BC",
+        "Description": "SNAPPERS - BC SUPER (large)",
+        "Packing": "60/4/50",
+        "UnitsPerCase": 60,
+        "UPC": 715244403356
+    },
+    {
+        "StockNumber": "NVBC336B",
+        "Brand": "BC",
+        "Description": "SNAPPERS - BC SUPER (small)",
+        "Packing": "6/50/50",
+        "UnitsPerCase": 300,
+        "UPC": 715244003365
+    },
+    {
+        "StockNumber": "NVLPP8500",
+        "Brand": "LG",
+        "Description": "LEGEND SNAPPERS (small)",
+        "Packing": "6/50/50",
+        "UnitsPerCase": 300
+    },
+    {
+        "StockNumber": "NVBC399",
+        "Brand": "BC",
+        "Description": "STREET CHASER (whistling chaser)",
+        "Packing": "10/24/6",
+        "UnitsPerCase": 240,
+        "UPC": 715244103997
+    },
+    {
+        "StockNumber": "NVF301",
+        "Brand": "Fox",
+        "Description": "TANK (plastic) ",
+        "Packing": "36/2",
+        "UnitsPerCase": 36,
+        "UPC": 514677103013
+    },
+    {
+        "StockNumber": "NVP-W705",
+        "Brand": "Gen",
+        "Description": "TANK w/report",
+        "Packing": "40/12",
+        "UnitsPerCase": 480,
+        "UPC": 705108070510
+    },
+    {
+        "StockNumber": "NVF307",
+        "Brand": "Fox",
+        "Description": "TANK ENGINE (plastic train)",
+        "Packing": "36/1",
+        "UnitsPerCase": 36,
+        "UPC": 514677003078
+    },
+    {
+        "StockNumber": "NV3-4702A",
+        "Brand": "GEN",
+        "Description": "TORPEDO CRACKER (adult)   ",
+        "Packing": "6/30/20",
+        "UnitsPerCase": 180,
+        "UPC": 652009030454
+    },
+    {
+        "StockNumber": "NVF300",
+        "Brand": "Fox",
+        "Description": "TORTOISE (plastic)     ",
+        "Packing": "36/2",
+        "UnitsPerCase": 36,
+        "UPC": 514677103006
+    },
+    {
+        "StockNumber": "PTBC6413",
+        "Brand": "BC",
+        "Description": "7 LANTERN PARACHUTE  ",
+        "Packing": "18/6",
+        "UnitsPerCase": 108,
+        "UPC": 715244064137
+    },
+    {
+        "StockNumber": "PTF103",
+        "Brand": "Fox",
+        "Description": "AIR INVASION PARACHUTE ",
+        "Shots": 12,
+        "Packing": "8/1",
+        "UnitsPerCase": 8,
+        "UPC": 514677001036
+    },
+    {
+        "StockNumber": "PTBC1063",
+        "Brand": "BC",
+        "Description": "ALIEN LANDING   ",
+        "Packing": "30/3",
+        "UnitsPerCase": 30,
+        "UPC": 715244010639
+    },
+    {
+        "StockNumber": "PTF100",
+        "Brand": "Fox",
+        "Description": "COLOR SMOKE PARACHUTE  ",
+        "Packing": "18/4",
+        "UnitsPerCase": 18,
+        "UPC": 514677001005
+    },
+    {
+        "StockNumber": "PTBC1067",
+        "Brand": "BC",
+        "Description": "DOUBLE DAY PARACHUTE",
+        "Packing": "72/4",
+        "UnitsPerCase": 72,
+        "UPC": 715244110674
+    },
+    {
+        "StockNumber": "PTF102",
+        "Brand": "Fox",
+        "Description": "FOX PARATROOPER     ",
+        "Packing": "36/1",
+        "UnitsPerCase": 36,
+        "UPC": 514677001029
+    },
+    {
+        "StockNumber": "PTBC1068",
+        "Brand": "BC",
+        "Description": "MAMMOTH PARACHUTE",
+        "Packing": "20/4",
+        "UnitsPerCase": 80,
+        "UPC": 652009001740
+    },
+    {
+        "StockNumber": "PTF101",
+        "Brand": "Fox",
+        "Description": "PARACHUTE W/CRACKLE  ",
+        "Packing": "18/4",
+        "UnitsPerCase": 18,
+        "UPC": 514677001012
+    },
+    {
+        "StockNumber": "PTF104",
+        "Brand": "Fox",
+        "Description": "PRINCESS PARACHUTE",
+        "Packing": "45628",
+        "UnitsPerCase": 12,
+        "UPC": 514677001043
+    },
+    {
+        "StockNumber": "PTBC1065",
+        "Brand": "BC",
+        "Description": "VICTORY CELEBRATION ",
+        "Shots": 37,
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 715244010653
+    },
+    {
+        "StockNumber": "PTBC1066",
+        "Brand": "BC",
+        "Description": "SINGLE DAY PARACHUTE ",
+        "Packing": "72/4",
+        "UnitsPerCase": 72,
+        "UPC": 715244110667
+    },
+    {
+        "StockNumber": "PTBC6039",
+        "Brand": "BC",
+        "Description": "SINGLE NIGHT PARACHUTE  ",
+        "Packing": "72/4",
+        "UnitsPerCase": 72,
+        "UPC": 715244060399
+    },
+    {
+        "StockNumber": "PTMX228",
+        "Brand": "Max",
+        "Description": "SINGLE NIGHT PARACHUTE  ",
+        "Packing": "48/6",
+        "UnitsPerCase": 48,
+        "UPC": 100000228029
+    },
+    {
+        "StockNumber": "PTBC6040",
+        "Brand": "BC",
+        "Description": "DOUBLE NIGHT PARACHUTE",
+        "Packing": "72/4",
+        "UnitsPerCase": 72,
+        "UPC": 715244060403
+    },
+    {
+        "StockNumber": "XXLANTERN-AF",
+        "Brand": "Gen",
+        "Description": "PREMIUM SKY LANTERN (American Flag)",
+        "Packing": "36/1",
+        "UnitsPerCase": 36,
+        "UPC": 652001110037
+    },
+    {
+        "StockNumber": "NVBC1053",
+        "Brand": "BC",
+        "Description": "SKY SPIDER ",
+        "Packing": "36/4",
+        "UnitsPerCase": 36,
+        "UPC": 715244105342
+    },
+    {
+        "StockNumber": "PKPUNK1",
+        "Brand": "Gen",
+        "Description": "PRO PUNK (poly bag)",
+        "Packing": "200/3",
+        "UnitsPerCase": 200,
+        "UPC": 652009901019
+    },
+    {
+        "StockNumber": "ARBC410",
+        "Brand": "BC",
+        "Description": "4 OZ ROCKET   - Not TX Legal",
+        "Packing": "36/12",
+        "UnitsPerCase": 36,
+        "UPC": 715244004102
+    },
+    {
+        "StockNumber": "ARBC412",
+        "Brand": "BC",
+        "Description": "8 OZ ROCKET",
+        "Packing": "36/12",
+        "UnitsPerCase": 36,
+        "UPC": 715244004126
+    },
+    {
+        "StockNumber": "ARBC476",
+        "Brand": "BC",
+        "Description": "BIG N' BAD ROCKET ",
+        "Packing": "12/6",
+        "UnitsPerCase": 12,
+        "UPC": 715244004768
+    },
+    {
+        "StockNumber": "ARBC486",
+        "Brand": "BC",
+        "Description": "COWBOY ROCKET ",
+        "Packing": "45878",
+        "UnitsPerCase": 8,
+        "UPC": 715244004867
+    },
+    {
+        "StockNumber": "ARLB-TX01",
+        "Brand": "LG",
+        "Description": "DESERT ROCKET   ",
+        "Packing": "36/6",
+        "UnitsPerCase": 36
+    },
+    {
+        "StockNumber": "ARBC461-8",
+        "Brand": "BC",
+        "Description": "GALAXY PACK ROCKET  -  Not TX Legal",
+        "Packing": "10/9",
+        "UnitsPerCase": 10,
+        "UPC": 715244046188
+    },
+    {
+        "StockNumber": "ARLB-TX03",
+        "Brand": "LG",
+        "Description": "GIANT TEXAN ROCKET  ",
+        "Packing": "36/6",
+        "UnitsPerCase": 36
+    },
+    {
+        "StockNumber": "ARF400",
+        "Brand": "Fox",
+        "Description": "PIGGY ROCKET",
+        "Packing": "12/5",
+        "UnitsPerCase": 12,
+        "UPC": 514677004006
+    },
+    {
+        "StockNumber": "ARBC448",
+        "Brand": "BC",
+        "Description": "POUND ROCKET ",
+        "Packing": "24/4",
+        "UnitsPerCase": 24,
+        "UPC": 715244004485
+    },
+    {
+        "StockNumber": "ARF402",
+        "Brand": "Fox",
+        "Description": "STREET STROBE ROCKET  ",
+        "Packing": "12/2",
+        "UnitsPerCase": 12,
+        "UPC": 514677004020
+    },
+    {
+        "StockNumber": "ARF401",
+        "Brand": "Fox",
+        "Description": "STROBE ROCKET  ",
+        "Packing": "12/2",
+        "UnitsPerCase": 12,
+        "UPC": 514677004013
+    },
+    {
+        "StockNumber": "ARBC489",
+        "Brand": "BC",
+        "Description": "SUPER STROBE ROCKET  ",
+        "Packing": "12/2",
+        "UnitsPerCase": 12,
+        "UPC": 715244004898
+    },
+    {
+        "StockNumber": "ARBC484",
+        "Brand": "BC",
+        "Description": "TEXAS BANDIT ROCKET ",
+        "Packing": "36/6",
+        "UnitsPerCase": 36,
+        "UPC": 715244004843
+    },
+    {
+        "StockNumber": "ARLB-TX02",
+        "Brand": "LG",
+        "Description": "TEXAS POP ROCKET  ",
+        "Packing": "36/6",
+        "UnitsPerCase": 36
+    },
+    {
+        "StockNumber": "ARBC419",
+        "Brand": "BC",
+        "Description": "THREE PEAT ROCKET  -  Not TX Legal",
+        "Packing": "36/24",
+        "UnitsPerCase": 36,
+        "UPC": 715244004195
+    },
+    {
+        "StockNumber": "ARBC487",
+        "Brand": "BC",
+        "Description": "WRANGLER ROCKET  ",
+        "Packing": "36/6",
+        "UnitsPerCase": 36,
+        "UPC": 715244004874
+    },
+    {
+        "StockNumber": "BRBC401",
+        "Brand": "BC",
+        "Description": "BLACK CAT ",
+        "Packing": "25/12/12",
+        "UnitsPerCase": 25,
+        "UPC": 715244004010
+    },
+    {
+        "StockNumber": "BRBC483",
+        "Brand": "BC",
+        "Description": "BLACK CAT WHISTLING",
+        "Packing": "20/12/12",
+        "UnitsPerCase": 20,
+        "UPC": 715244004836
+    },
+    {
+        "StockNumber": "BR0440S",
+        "Brand": "Gen",
+        "Description": "MOON TRAVEL   ",
+        "Packing": "25/12/12",
+        "UnitsPerCase": 25,
+        "UPC": 652009904027
+    },
+    {
+        "StockNumber": "CRBC488",
+        "Brand": "BC",
+        "Description": "BACKTALK ROCKET",
+        "Packing": "72/6",
+        "UnitsPerCase": 72,
+        "UPC": 715244004881
+    },
+    {
+        "StockNumber": "CRBC452",
+        "Brand": "BC",
+        "Description": "BUTTERFLY ROCKET",
+        "Packing": "72/6",
+        "UnitsPerCase": 72,
+        "UPC": 715244104529
+    },
+    {
+        "StockNumber": "CRMX006",
+        "Brand": "Max",
+        "Description": "BUTTERFLY ROCKET   ",
+        "Packing": "72/6",
+        "UnitsPerCase": 72
+    },
+    {
+        "StockNumber": "CRBC451",
+        "Brand": "BC",
+        "Description": "CLUSTERING BEE RKT   ",
+        "Packing": "72/6",
+        "UnitsPerCase": 72,
+        "UPC": 715244104512
+    },
+    {
+        "StockNumber": "CRMX005",
+        "Brand": "Max",
+        "Description": "CLUSTERING BEE RKT     ",
+        "Packing": "72/6",
+        "UnitsPerCase": 72
+    },
+    {
+        "StockNumber": "CRBC485",
+        "Brand": "BC",
+        "Description": "GLITTEROUS LIGHT RKT",
+        "Packing": "72/6",
+        "UnitsPerCase": 72,
+        "UPC": 715244104857
+    },
+    {
+        "StockNumber": "CRMX008",
+        "Brand": "Max",
+        "Description": "GLITTEROUS LIGHT RKT  ",
+        "Packing": "72/6",
+        "UnitsPerCase": 72
+    },
+    {
+        "StockNumber": "CRBC453",
+        "Brand": "BC",
+        "Description": "WILD GEESE RKT   ",
+        "Packing": "48/6",
+        "UnitsPerCase": 48,
+        "UPC": 715244104536
+    },
+    {
+        "StockNumber": "CRMX011",
+        "Brand": "Max",
+        "Description": "WILD GEESE RKT        ",
+        "Packing": "72/6",
+        "UnitsPerCase": 72
+    },
+    {
+        "StockNumber": "RCBC527",
+        "Brand": "BC",
+        "Description": "PREMIUM CANDLE ASSORTMENT  ",
+        "Shots": 5,
+        "Packing": "18/4",
+        "UnitsPerCase": 18,
+        "UPC": 715244005270
+    },
+    {
+        "StockNumber": "RCBC526",
+        "Brand": "BC",
+        "Description": "5  BALL CHINA  ",
+        "Shots": 5,
+        "Packing": "48/6",
+        "UnitsPerCase": 48,
+        "UPC": 715244052608
+    },
+    {
+        "StockNumber": "RCBC524",
+        "Brand": "BC",
+        "Description": "5 BALL  W/REPORT ",
+        "Shots": 5,
+        "Packing": "72/4",
+        "UnitsPerCase": 72,
+        "UPC": 715244052400
+    },
+    {
+        "StockNumber": "RCBC505",
+        "Brand": "BC",
+        "Description": "GATLIN  PACK  ",
+        "Shots": 5,
+        "Packing": "8/9",
+        "UnitsPerCase": 8,
+        "UPC": 715244005055
+    },
+    {
+        "StockNumber": "RCLR3128B",
+        "Brand": "LG",
+        "Description": "JUMBO ASSORTED boxed",
+        "Shots": 8,
+        "Packing": "18/4",
+        "UnitsPerCase": 18,
+        "UPC": 241218312824
+    },
+    {
+        "StockNumber": "RCLR-W8012",
+        "Brand": "LG",
+        "Description": "HOMETOWN",
+        "Shots": 8,
+        "Packing": "18/3",
+        "UnitsPerCase": 18,
+        "UPC": 121823801299
+    },
+    {
+        "StockNumber": "RCT6236A",
+        "Brand": "Gen",
+        "Description": "10 BALL MINI CANDLE",
+        "Shots": 10,
+        "Packing": "40/10",
+        "UnitsPerCase": 40,
+        "UPC": 652009002983
+    },
+    {
+        "StockNumber": "RCBC513A",
+        "Brand": "BC",
+        "Description": "10 BALL CHINA     ",
+        "Shots": 10,
+        "Packing": "36/4",
+        "UnitsPerCase": 36,
+        "UPC": 715244405138
+    },
+    {
+        "StockNumber": "RCBC513",
+        "Brand": "BC",
+        "Description": "10 BALL CHINA      ",
+        "Shots": 10,
+        "Packing": "24/6",
+        "UnitsPerCase": 24,
+        "UPC": 715244605132
+    },
+    {
+        "StockNumber": "RCBC525",
+        "Brand": "BC",
+        "Description": "10 BALL Asst (clr/crk/report)   ",
+        "Shots": 10,
+        "Packing": "24/6",
+        "UnitsPerCase": 24,
+        "UPC": 715244005253
+    },
+    {
+        "StockNumber": "RC0529",
+        "Brand": "Gen",
+        "Description": "10 BALL  W/REPORT",
+        "Shots": 10,
+        "Packing": "36/4",
+        "UnitsPerCase": 36,
+        "UPC": 652009001801
+    },
+    {
+        "StockNumber": "RCSRC2010",
+        "Brand": "Sho",
+        "Description": "10 BALL CRACKLING",
+        "Shots": 10,
+        "Packing": "36/4",
+        "UnitsPerCase": 36,
+        "UPC": 680149000620
+    },
+    {
+        "StockNumber": "RCBC511",
+        "Brand": "BC",
+        "Description": "BANGER CANDLE",
+        "Shots": 10,
+        "Packing": "36/4",
+        "UnitsPerCase": 36,
+        "UPC": 715244005116
+    },
+    {
+        "StockNumber": "RCWP-503",
+        "Brand": "Gen",
+        "Description": "BOOM BOMB CANDLE     ",
+        "Shots": 10,
+        "Packing": "24/6",
+        "UnitsPerCase": 24,
+        "UPC": 652009305039
+    },
+    {
+        "StockNumber": "RCBC529",
+        "Brand": "BC",
+        "Description": "AMERICAN CANDLE",
+        "Shots": 10,
+        "Packing": "12/12",
+        "UnitsPerCase": 12,
+        "UPC": 715244005291
+    },
+    {
+        "StockNumber": "RCJP-510",
+        "Brand": "JP",
+        "Description": "120 shot CAMO PACK CANDLE   ",
+        "Shots": 10,
+        "Packing": "12/12",
+        "UnitsPerCase": 12,
+        "UPC": 652009905109
+    },
+    {
+        "StockNumber": "RCBC510",
+        "Brand": "BC",
+        "Description": "CRACKLING CANDLE ",
+        "Shots": 10,
+        "Packing": "36/4",
+        "UnitsPerCase": 36,
+        "UPC": 715244005109
+    },
+    {
+        "StockNumber": "RCBC532",
+        "Brand": "BC",
+        "Description": "PHAT STACKS",
+        "Shots": 10,
+        "Packing": "10/24",
+        "UnitsPerCase": 10,
+        "UPC": 715244005321
+    },
+    {
+        "StockNumber": "RCBC504",
+        "Brand": "BC",
+        "Description": "THE HANDFUL ",
+        "Shots": 10,
+        "Packing": "36/5",
+        "UnitsPerCase": 36,
+        "UPC": 715244005048
+    },
+    {
+        "StockNumber": "RCF500",
+        "Brand": "Fox",
+        "Description": "BEAST CANDLE  ",
+        "Shots": 666,
+        "Packing": "9/1",
+        "UnitsPerCase": 9,
+        "UPC": 514677005003
+    },
+    {
+        "StockNumber": "RCBC530",
+        "Brand": "BC",
+        "Description": "GLORY",
+        "Shots": 135,
+        "Packing": "24/1",
+        "UnitsPerCase": 24,
+        "UPC": 715244005307
+    },
+    {
+        "StockNumber": "RCBC528",
+        "Brand": "BC",
+        "Description": "LIBERTY CANNON ",
+        "Shots": 200,
+        "Packing": "45536",
+        "UnitsPerCase": 9,
+        "UPC": 715244005284
+    },
+    {
+        "StockNumber": "RCBC521A",
+        "Brand": "BC",
+        "Description": "TACTICAL CANNON  ",
+        "Shots": 180,
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 715244105212
+    },
+    {
+        "StockNumber": "RCF502",
+        "Brand": "Fox",
+        "Description": "PATRIOTIC FURY",
+        "Shots": 250,
+        "Packing": "16/1",
+        "UnitsPerCase": 16,
+        "UPC": 514677005027
+    },
+    {
+        "StockNumber": "RCF501",
+        "Brand": "Fox",
+        "Description": "PUFF PUFF PASS",
+        "Shots": 420,
+        "Packing": "45627",
+        "UnitsPerCase": 12,
+        "UPC": 514677005010
+    },
+    {
+        "StockNumber": "SMM100",
+        "Brand": "Gen",
+        "Description": "CAMO  SMOKE ",
+        "Packing": "144/1",
+        "UnitsPerCase": 144,
+        "UPC": 652009001757
+    },
+    {
+        "StockNumber": "SMBC702",
+        "Brand": "BC",
+        "Description": "COLOR SMOKE BALLS     ",
+        "Packing": "20/6/12",
+        "UnitsPerCase": 120,
+        "UPC": 715244007028
+    },
+    {
+        "StockNumber": "SMBC702A",
+        "Brand": "BC",
+        "Description": "COLOR SMOKE BALLS  ",
+        "Packing": "20/12/6",
+        "UnitsPerCase": 240,
+        "UPC": 715244070268
+    },
+    {
+        "StockNumber": "SMBC723",
+        "Brand": "BC",
+        "Description": "JUMBO SMOKE BOMBS (pink and blue)",
+        "Packing": "36/1",
+        "UnitsPerCase": 36,
+        "UPC": 715244037230
+    },
+    {
+        "StockNumber": "SMBC725",
+        "Brand": "BC",
+        "Description": "NEON CAMO SMOKE (bag)",
+        "Packing": "36/4",
+        "UnitsPerCase": 36,
+        "UPC": 715244007257
+    },
+    {
+        "StockNumber": "SMBS2602",
+        "Brand": "Win",
+        "Description": "SMOKE GRENADE (pull string)",
+        "Packing": "6/24",
+        "UnitsPerCase": 144,
+        "UPC": 705108260256
+    },
+    {
+        "StockNumber": "SMBC726",
+        "Brand": "BC",
+        "Description": "SPELLCASTER",
+        "Packing": "20/4",
+        "UnitsPerCase": 20,
+        "UPC": 715244007264
+    },
+    {
+        "StockNumber": "SMGP100",
+        "Brand": "Gen",
+        "Description": "TECHNICAL SMOKE  (intense color w/pull wire)",
+        "Packing": "2/60",
+        "UnitsPerCase": 120,
+        "UPC": 457223401006
+    },
+    {
+        "StockNumber": "SKBC313-7AC",
+        "Brand": "BC",
+        "Description": "#8 BC GOLD SPARKLER   ",
+        "Packing": "24/12/6",
+        "UnitsPerCase": 288,
+        "UPC": 715244073139
+    },
+    {
+        "StockNumber": "SKSEP8A",
+        "Brand": "Sho",
+        "Description": "#8 COLOR SPARKLER   ",
+        "Packing": "24/12/6",
+        "UnitsPerCase": 288,
+        "UPC": 680149000248
+    },
+    {
+        "StockNumber": "SKBC313-10AC",
+        "Brand": "BC",
+        "Description": "#10 BC GOLD SPARKLER - new packaging",
+        "Packing": "24/12/8",
+        "UnitsPerCase": 288,
+        "UPC": 715244103133
+    },
+    {
+        "StockNumber": "SKLSP-W1011",
+        "Brand": "Gen",
+        "Description": "#10 COLOR SPARKLER     ",
+        "Packing": "24/12/8",
+        "UnitsPerCase": 288,
+        "UPC": 112151610110
+    },
+    {
+        "StockNumber": "SKBC313-10W",
+        "Brand": "BC",
+        "Description": "#10 SPARKLER (bamboo)",
+        "Packing": "24/12/8",
+        "UnitsPerCase": 288,
+        "UPC": 715244030828
+    },
+    {
+        "StockNumber": "SKSEP10A",
+        "Brand": "Sho",
+        "Description": "#10 COLOR SPARKLER     ",
+        "Packing": "24/12/8",
+        "UnitsPerCase": 288,
+        "UPC": 680149004987
+    },
+    {
+        "StockNumber": "SKBC313-14C",
+        "Brand": "BC",
+        "Description": "#14 BC GOLD SPARKLER    ",
+        "Packing": "12/6/6",
+        "UnitsPerCase": 72,
+        "UPC": 715244143139
+    },
+    {
+        "StockNumber": "SKBC313-20C",
+        "Brand": "BC",
+        "Description": "#20 BC SPARKLER - new packaging",
+        "Packing": "12/6/4",
+        "UnitsPerCase": 72,
+        "UPC": 715244203130
+    },
+    {
+        "StockNumber": "SKJP-120",
+        "Brand": "JP",
+        "Description": "#20 COLOR SPARKLER (bamboo)",
+        "Packing": "12/4/6",
+        "UnitsPerCase": 48,
+        "UPC": 652009901200
+    },
+    {
+        "StockNumber": "SKBC313-36AC",
+        "Brand": "BC",
+        "Description": "#36 BC SPARKLER    ",
+        "Packing": "6/6/4",
+        "UnitsPerCase": 36,
+        "UPC": 715244633135
+    },
+    {
+        "StockNumber": "SKBC313-15*",
+        "Brand": "BC",
+        "Description": "NEON JAPANESE SPARKLER  ",
+        "Packing": "2/75",
+        "UnitsPerCase": 150,
+        "UPC": 715244313136
+    },
+    {
+        "StockNumber": "SKFX313",
+        "Brand": "Fox",
+        "Description": "LOVERS SPARKLER ",
+        "Packing": "125/4",
+        "UnitsPerCase": 125,
+        "UPC": 514677003139
+    },
+    {
+        "StockNumber": "SKBC313-06",
+        "Brand": "BC",
+        "Description": "MORNING GLORY   ",
+        "Packing": "30/18/4",
+        "UnitsPerCase": 30,
+        "UPC": 715244313068
+    },
+    {
+        "StockNumber": "SKBC313-27",
+        "Brand": "BC",
+        "Description": "MORNING GLORY  ",
+        "Packing": "15/24/6",
+        "UnitsPerCase": 15,
+        "UPC": 715244313273
+    },
+    {
+        "StockNumber": "SKWDN0981",
+        "Brand": "Gen",
+        "Description": "MORNING GLORY      ",
+        "Packing": "15/24/6",
+        "UnitsPerCase": 15,
+        "UPC": 813559002261
+    },
+    {
+        "StockNumber": "SKBC313-24",
+        "Brand": "BC",
+        "Description": "MORNING GLORY  36\"   ",
+        "Packing": "96/6",
+        "UnitsPerCase": 96,
+        "UPC": 715244313242
+    },
+    {
+        "StockNumber": "SKWDN36",
+        "Brand": "Gen",
+        "Description": "MORNING GLORY  36\"    ",
+        "Packing": "72/6",
+        "UnitsPerCase": 72,
+        "UPC": 813559000892
+    },
+    {
+        "StockNumber": "SPWPP-801",
+        "Brand": "Win",
+        "Description": "ALIEN CHASER",
+        "Packing": "18/8",
+        "UnitsPerCase": 18,
+        "UPC": 214345008014
+    },
+    {
+        "StockNumber": "SPF800",
+        "Brand": "Fox",
+        "Description": "ATTACK! ",
+        "Packing": "4/32/3",
+        "UnitsPerCase": 128,
+        "UPC": 514677008004
+    },
+    {
+        "StockNumber": "SPF802",
+        "Brand": "Fox",
+        "Description": "BURN RUBBER (plastic wheel)    ",
+        "Packing": "18/2",
+        "UnitsPerCase": 18,
+        "UPC": 514677008028
+    },
+    {
+        "StockNumber": "SPK1126A",
+        "Brand": "Gen",
+        "Description": "CAMELIA FLOWER",
+        "Packing": "20/12/6",
+        "UnitsPerCase": 240,
+        "UPC": 69400889
+    },
+    {
+        "StockNumber": "SPBC842",
+        "Brand": "BC",
+        "Description": "CAT EYES  ",
+        "Packing": "6/32/3",
+        "UnitsPerCase": 192,
+        "UPC": 715244084203
+    },
+    {
+        "StockNumber": "SP0902",
+        "Brand": "Gen",
+        "Description": "DANCING BUTTERFLIES",
+        "Packing": "36/6",
+        "UnitsPerCase": 36,
+        "UPC": 652009000842
+    },
+    {
+        "StockNumber": "SPBC846",
+        "Brand": "BC",
+        "Description": "DYNAMITE DEBBIE",
+        "Packing": "144/4",
+        "UnitsPerCase": 144,
+        "UPC": 715244108466
+    },
+    {
+        "StockNumber": "SPBC825",
+        "Brand": "BC",
+        "Description": "GROUND BLOOM FLOWER",
+        "Packing": "20/12/6",
+        "UnitsPerCase": 240,
+        "UPC": 715244008254
+    },
+    {
+        "StockNumber": "SPSGW901B",
+        "Brand": "Sho",
+        "Description": "GROUND BLOOM FLOWER",
+        "Packing": "20/12/6",
+        "UnitsPerCase": 240,
+        "UPC": 680149015174
+    },
+    {
+        "StockNumber": "SPBC845",
+        "Brand": "BC",
+        "Description": "JUMPING JACKS",
+        "Packing": "20/12/50",
+        "UnitsPerCase": 240,
+        "UPC": 715244008452
+    },
+    {
+        "StockNumber": "SPT3500",
+        "Brand": "Gen",
+        "Description": "JUMPING JACKS",
+        "Packing": "20/48/12",
+        "UnitsPerCase": 48,
+        "UPC": 652009953506
+    },
+    {
+        "StockNumber": "SPGP800",
+        "Brand": "Gen",
+        "Description": "SIRENS",
+        "Packing": "240/6",
+        "UnitsPerCase": 240,
+        "UPC": 378850008003
+    },
+    {
+        "StockNumber": "SPBC810A",
+        "Brand": "BC",
+        "Description": "TASMANIAN DEVILS  ",
+        "Packing": "48/3",
+        "UnitsPerCase": 48,
+        "UPC": 715244108107
+    },
+    {
+        "StockNumber": "SPF801",
+        "Brand": "Fox",
+        "Description": "TI-LOTUS ",
+        "Packing": "24/2",
+        "UnitsPerCase": 24,
+        "UPC": 514677008011
+    },
+    {
+        "StockNumber": "WGJP-806",
+        "Brand": "JP",
+        "Description": "2 COLOR SPACESHIP (bag)",
+        "Packing": "48/3",
+        "UnitsPerCase": 48,
+        "UPC": 652009908063
+    },
+    {
+        "StockNumber": "WG0428P",
+        "Brand": "Gen",
+        "Description": "ARTIFICIAL SATELLITE   ",
+        "Packing": "10/12/12",
+        "UnitsPerCase": 120,
+        "UPC": 705108204281
+    },
+    {
+        "StockNumber": "WGF904",
+        "Brand": "Fox",
+        "Description": "BUZZ BOMB",
+        "Packing": "80/3",
+        "UnitsPerCase": 80,
+        "UPC": 514677009049
+    },
+    {
+        "StockNumber": "WGBC932",
+        "Brand": "BC",
+        "Description": "DON'T BUG ME",
+        "Packing": "32/2",
+        "UnitsPerCase": 32
+    },
+    {
+        "StockNumber": "WGF902",
+        "Brand": "Fox",
+        "Description": "DOUBLE DECKER AIRCRAFT",
+        "Packing": "54/4",
+        "UnitsPerCase": 54,
+        "UPC": 514677009025
+    },
+    {
+        "StockNumber": "WGF903",
+        "Brand": "Fox",
+        "Description": "DRAGONFLIES",
+        "Packing": "48/2",
+        "UnitsPerCase": 48,
+        "UPC": 514677009032
+    },
+    {
+        "StockNumber": "WGF900",
+        "Brand": "Fox",
+        "Description": "DRONE (plastic)",
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 514677009001
+    },
+    {
+        "StockNumber": "WGBC920",
+        "Brand": "BC",
+        "Description": "GREEN HORNET",
+        "Packing": "96/6",
+        "UnitsPerCase": 96
+    },
+    {
+        "StockNumber": "WGBC934",
+        "Brand": "BC",
+        "Description": "LADYBUGS",
+        "Packing": "40/3",
+        "UnitsPerCase": 40,
+        "UPC": 715244009343
+    },
+    {
+        "StockNumber": "WGBP5035",
+        "Brand": "Bros",
+        "Description": "LADYBUGS",
+        "Packing": "60/3",
+        "UnitsPerCase": 60,
+        "UPC": 687985503520
+    },
+    {
+        "StockNumber": "WGP6009A",
+        "Brand": "Win",
+        "Description": "LADY BUGS ",
+        "Packing": "40/3",
+        "UnitsPerCase": 40,
+        "UPC": 705108600908
+    },
+    {
+        "StockNumber": "WGF906",
+        "Brand": "Fox",
+        "Description": "LOST AT SEA",
+        "Packing": "20/10",
+        "UnitsPerCase": 20,
+        "UPC": 514677009063
+    },
+    {
+        "StockNumber": "WGBP5028",
+        "Brand": "Bro",
+        "Description": "MAGIC CRYSTAL",
+        "Packing": "36/4",
+        "UnitsPerCase": 36,
+        "UPC": 687985502820
+    },
+    {
+        "StockNumber": "WGBC933",
+        "Brand": "BC",
+        "Description": "NIGHT FANG",
+        "Packing": "40/5",
+        "UnitsPerCase": 40
+    },
+    {
+        "StockNumber": "WGF901",
+        "Brand": "Fox",
+        "Description": "SMALL BEES",
+        "Packing": "4/50/12",
+        "UnitsPerCase": 200,
+        "UPC": 514677009018
+    },
+    {
+        "StockNumber": "WGBC931",
+        "Brand": "BC",
+        "Description": "STEALTH BOMBER",
+        "Packing": "60/2",
+        "UnitsPerCase": 60
+    },
+    {
+        "StockNumber": "WGGP401",
+        "Brand": "Gen",
+        "Description": "ZING!!     ",
+        "Packing": "6/40/6",
+        "UnitsPerCase": 240,
+        "UPC": 69400360
+    },
+    {
+        "StockNumber": "XXHEF30",
+        "Description": "SAFETY FUSE",
+        "Packing": "2/48",
+        "UnitsPerCase": 2,
+        "UPC": 499501000013
+    },
+    {
+        "StockNumber": "ATBBASB",
+        "Brand": "Gen",
+        "Description": "ALL STAR BLOCKBUSTER (w/roman candle)",
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 877100100066
+    },
+    {
+        "StockNumber": "ATBIGRED",
+        "Brand": "Gen",
+        "Description": "BIG RED",
+        "Packing": "8/1",
+        "UnitsPerCase": 8,
+        "UPC": 652009002730
+    },
+    {
+        "StockNumber": "ATBP-A106",
+        "Brand": "Bros",
+        "Description": "FLASH FLOOD ASSORTMENT",
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 687985910601
+    },
+    {
+        "StockNumber": "ATNLIFE",
+        "Brand": "Gen",
+        "Description": "NIGHT LIFE ASSORTMENT",
+        "Packing": "4/1",
+        "UnitsPerCase": 4
+    },
+    {
+        "StockNumber": "ATPV143",
+        "Brand": "Gen",
+        "Description": "VALUE ASSORTMENT #3",
+        "Packing": "18/1",
+        "UnitsPerCase": 18,
+        "UPC": 708972118081
+    },
+    {
+        "StockNumber": "ATSVR21S",
+        "Brand": "Gen",
+        "Description": "SUN ASSORTMENT S&S",
+        "Packing": "18/1",
+        "UnitsPerCase": 18,
+        "UPC": 680149015785
+    },
+    {
+        "StockNumber": "MEBP-A053-2/24",
+        "Brand": "Bros",
+        "Description": "QUEST 4\" Canisters",
+        "Shots": 24,
+        "Packing": "4/24",
+        "UnitsPerCase": 4,
+        "UPC": 687985905300
+    },
+    {
+        "StockNumber": "MEPYK723C",
+        "Brand": "PK",
+        "Description": "BLASTER SHELLS",
+        "Packing": "1/48",
+        "UnitsPerCase": 1,
+        "UPC": 708972454585
+    },
+    {
+        "StockNumber": "MEPYK737",
+        "Brand": "PK",
+        "Description": "SLAMMER 5\" Canisters",
+        "Shots": 24,
+        "Packing": "4/24",
+        "UnitsPerCase": 4,
+        "UPC": 708972454615
+    },
+    {
+        "StockNumber": "FNBC2208",
+        "Brand": "BC",
+        "Description": "BIG CAT ",
+        "Packing": "18/1",
+        "UnitsPerCase": 18,
+        "UPC": 715244022083
+    },
+    {
+        "StockNumber": "FNBC2213",
+        "Brand": "BC",
+        "Description": "SHUT UP!!",
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 715244022137
+    },
+    {
+        "StockNumber": "FNBC2177",
+        "Brand": "BC",
+        "Description": "1.21 GIGAWATTS",
+        "Packing": "24/1",
+        "UnitsPerCase": 24,
+        "UPC": 715244021772
+    },
+    {
+        "StockNumber": "FNBC2241",
+        "Brand": "BC",
+        "Description": "MAD CAT   ",
+        "Packing": "18/1",
+        "UnitsPerCase": 18,
+        "UPC": 715244022410
+    },
+    {
+        "StockNumber": "FNBP-A095",
+        "Brand": "Bros",
+        "Description": "NEON NIGHTS (assorted)",
+        "Packing": "6/5",
+        "UnitsPerCase": 30,
+        "UPC": 687985909513
+    },
+    {
+        "StockNumber": "FNF204",
+        "Brand": "Fox",
+        "Description": "PICK ME",
+        "Packing": "36/1",
+        "UnitsPerCase": 36,
+        "UPC": 514677002040
+    },
+    {
+        "StockNumber": "FNF205",
+        "Brand": "Fox",
+        "Description": "GANG OF 4",
+        "Packing": "9/4",
+        "UnitsPerCase": 9,
+        "UPC": 514677102054
+    },
+    {
+        "StockNumber": "FNJ200",
+        "Brand": "Gen",
+        "Description": "CUCKOO/KILLER BEE  ",
+        "Packing": "48/2",
+        "UnitsPerCase": 48,
+        "UPC": 612005102001
+    },
+    {
+        "StockNumber": "MEBC6333",
+        "Brand": "BC",
+        "Description": "DON'T TREAD ON ME",
+        "Shots": 18,
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 715244063338
+    },
+    {
+        "StockNumber": "MEBC6398",
+        "Brand": "BC",
+        "Description": "BACKYARD RIOT ",
+        "Shots": 16,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 715244063987
+    },
+    {
+        "StockNumber": "MEU0004A",
+        "Brand": "P Keg",
+        "Description": "BIG MAN",
+        "Shots": 12,
+        "Packing": "1/1",
+        "UnitsPerCase": 1,
+        "UPC": 652009002556
+    },
+    {
+        "StockNumber": "MEJ6004",
+        "Brand": "Gen",
+        "Description": "BIG TWIN",
+        "Shots": 36,
+        "Packing": "2/2",
+        "UnitsPerCase": 1,
+        "UPC": 612005460040
+    },
+    {
+        "StockNumber": "MEBC6467",
+        "Brand": "BC",
+        "Description": "BLUE JACKET",
+        "Shots": 7,
+        "Packing": "48/1",
+        "UnitsPerCase": 48,
+        "UPC": 715244064670
+    },
+    {
+        "StockNumber": "MEBC6407",
+        "Brand": "BC",
+        "Description": "COMBAT ZONE",
+        "Shots": 120,
+        "Packing": "2/1",
+        "UnitsPerCase": 2
+    },
+    {
+        "StockNumber": "MEF6085",
+        "Brand": "Fox",
+        "Description": "DIVE BOMB",
+        "Shots": 16,
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 514677060859
+    },
+    {
+        "StockNumber": "MEBC6372-2",
+        "Brand": "BC",
+        "Description": "DRAGON'S BREATH ",
+        "Shots": 15,
+        "Packing": "6/1",
+        "UnitsPerCase": 6,
+        "UPC": 715244263721
+    },
+    {
+        "StockNumber": "MEF6081",
+        "Brand": "Fox",
+        "Description": "FEEDBACK",
+        "Shots": 24,
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 514677060811
+    },
+    {
+        "StockNumber": "MEBC6417",
+        "Brand": "BC",
+        "Description": "FIRE BALL",
+        "Shots": 12,
+        "Packing": "6/1",
+        "UnitsPerCase": 6,
+        "UPC": 715244064175
+    },
+    {
+        "StockNumber": "MEMX205",
+        "Brand": "Gen",
+        "Description": "GARDEN IN SPRING",
+        "Shots": 7,
+        "Packing": "40/1",
+        "UnitsPerCase": 40,
+        "UPC": 100000205013
+    },
+    {
+        "StockNumber": "MEJ6001",
+        "Brand": "Gen",
+        "Description": "HAPPY  36's",
+        "Shots": 36,
+        "Packing": "24/1",
+        "UnitsPerCase": 24,
+        "UPC": 612005060011
+    },
+    {
+        "StockNumber": "MEBC6372-1",
+        "Brand": "BC",
+        "Description": "HAWK ATTACK ",
+        "Shots": 12,
+        "Packing": "6/1",
+        "UnitsPerCase": 6,
+        "UPC": 715244163724
+    },
+    {
+        "StockNumber": "MEBC6351",
+        "Brand": "BC",
+        "Description": "IRON DOME SYSTEM",
+        "Shots": 198,
+        "Packing": "1/1",
+        "UnitsPerCase": 1,
+        "UPC": 715244063512
+    },
+    {
+        "StockNumber": "MEBC6429",
+        "Brand": "BC",
+        "Description": "LED ",
+        "Shots": 15,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 715244064298
+    },
+    {
+        "StockNumber": "MEBP2679",
+        "Brand": "Bros",
+        "Description": "LET IT RIP",
+        "Shots": 12,
+        "Packing": "8/1",
+        "UnitsPerCase": 8,
+        "UPC": 687985267910
+    },
+    {
+        "StockNumber": "MEBC6444",
+        "Brand": "BC",
+        "Description": "LIVIN'  ",
+        "Shots": 15,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 715244064441
+    },
+    {
+        "StockNumber": "MEBC6454",
+        "Brand": "BC",
+        "Description": "MAGIC SMOKE",
+        "Shots": 16,
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 715244064540
+    },
+    {
+        "StockNumber": "MEF6008",
+        "Brand": "Fox",
+        "Description": "MAY DAY",
+        "Shots": 12,
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 514677060088
+    },
+    {
+        "StockNumber": "MEBP2346",
+        "Brand": "Bros",
+        "Description": "MIDNIGHT",
+        "Shots": 204,
+        "Packing": "1/1",
+        "UnitsPerCase": 1,
+        "UPC": 687985234615
+    },
+    {
+        "StockNumber": "MEJP-6216",
+        "Brand": "JP",
+        "Description": "NEON JELLYFISH",
+        "Shots": 12,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 652009003331
+    },
+    {
+        "StockNumber": "MEF6009",
+        "Brand": "Fox",
+        "Description": "NINJA STARS",
+        "Shots": 12,
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 514677060095
+    },
+    {
+        "StockNumber": "MEBP2049",
+        "Brand": "Bros",
+        "Description": "OKTOBERFEST",
+        "Shots": 36,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 687985204915
+    },
+    {
+        "StockNumber": "MEF6027",
+        "Brand": "Fox",
+        "Description": "PERFECT TEN ",
+        "Shots": 10,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 514677060279
+    },
+    {
+        "StockNumber": "MEF6041",
+        "Brand": "Fox",
+        "Description": "PICNIC PACK (red, green, yellow)",
+        "Shots": 18,
+        "Packing": "6/3",
+        "UnitsPerCase": 6,
+        "UPC": 514677160412
+    },
+    {
+        "StockNumber": "MEBC6378",
+        "Brand": "BC",
+        "Description": "PINK",
+        "Shots": 16,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 715244063789
+    },
+    {
+        "StockNumber": "MEF6083",
+        "Brand": "Fox",
+        "Description": "PREMIERE",
+        "Shots": 16,
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 514677060835
+    },
+    {
+        "StockNumber": "MEBC6423",
+        "Brand": "BC",
+        "Description": "PSYCHO PEACOCK",
+        "Shots": 25,
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 715244064236
+    },
+    {
+        "StockNumber": "MEBC6397",
+        "Brand": "BC",
+        "Description": "PURPLE MONSTER",
+        "Shots": 16,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 715244063970
+    },
+    {
+        "StockNumber": "MEBC6364",
+        "Brand": "BC",
+        "Description": "PURPLE PASSION",
+        "Shots": 18,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 715244063642
+    },
+    {
+        "StockNumber": "MEF6068",
+        "Brand": "Fox",
+        "Description": "REVENGE 5 DRAGONS",
+        "Shots": 19,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 514677060682
+    },
+    {
+        "StockNumber": "MEF6080",
+        "Brand": "Fox",
+        "Description": "SECRET WEAPON ",
+        "Shots": 37,
+        "Packing": "8/1",
+        "UnitsPerCase": 8,
+        "UPC": 514677060804
+    },
+    {
+        "StockNumber": "MEF6082",
+        "Brand": "Fox",
+        "Description": "SILK WILLOW ",
+        "Shots": 25,
+        "Packing": "12/1",
+        "UnitsPerCase": 12,
+        "UPC": 514677060828
+    },
+    {
+        "StockNumber": "MEBC6418",
+        "Brand": "BC",
+        "Description": "SILVER PALM",
+        "Shots": 12,
+        "Packing": "6/1",
+        "UnitsPerCase": 6,
+        "UPC": 715244064182
+    },
+    {
+        "StockNumber": "MEJP-6235",
+        "Brand": "JP",
+        "Description": "SPIDER BITE ",
+        "Shots": 12,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 652009004123
+    },
+    {
+        "StockNumber": "MEF6070",
+        "Brand": "Fox",
+        "Description": "SPLIT DECISION",
+        "Shots": 48,
+        "Packing": "2/2",
+        "UnitsPerCase": 1,
+        "UPC": 514677960708
+    },
+    {
+        "StockNumber": "MEBP2695",
+        "Brand": "Bros",
+        "Description": "STATE OF THE UNION  ",
+        "Shots": 34,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 687985269518
+    },
+    {
+        "StockNumber": "MEBC6356",
+        "Brand": "BC",
+        "Description": "SUCKER PUNCH",
+        "Shots": 9,
+        "Packing": "8/1",
+        "UnitsPerCase": 8,
+        "UPC": 715244063567
+    },
+    {
+        "StockNumber": "MEP5350",
+        "Brand": "Win",
+        "Description": "SUPER STUNT",
+        "Shots": 12,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 705108535002
+    },
+    {
+        "StockNumber": "MEJP-6237",
+        "Brand": "JP",
+        "Description": "THE BLUES",
+        "Shots": 25,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 652009004147
+    },
+    {
+        "StockNumber": "MEBC6341",
+        "Brand": "BC",
+        "Description": "TIGER TAILS",
+        "Shots": 9,
+        "Packing": "8/1",
+        "UnitsPerCase": 8,
+        "UPC": 715244063413
+    },
+    {
+        "StockNumber": "MEL35025",
+        "Brand": "Gen",
+        "Description": "TOMMY GUN",
+        "Shots": 360,
+        "Packing": "1/1",
+        "UnitsPerCase": 1,
+        "UPC": 162109350254
+    },
+    {
+        "StockNumber": "MEWB007",
+        "Brand": "Bros",
+        "Description": "WAR HERO",
+        "Shots": 30,
+        "Packing": "4/1",
+        "UnitsPerCase": 4,
+        "UPC": 687985985111
+    },
+    {
+        "StockNumber": "ARBC449",
+        "Brand": "BC",
+        "Description": "RING SHELL ROCKETS",
+        "Packing": "20/6",
+        "UnitsPerCase": 20,
+        "UPC": 715244004492
+    },
+    {
+        "StockNumber": "ARP2027",
+        "Brand": "Win",
+        "Description": "SPACE FALCON",
+        "Packing": "16/5",
+        "UnitsPerCase": 16,
+        "UPC": 705108202706
+    },
+    {
+        "StockNumber": "BRBC469A",
+        "Brand": "BC",
+        "Description": "NEON MASTER MISSILE",
+        "Packing": "12/20/10",
+        "UnitsPerCase": 240,
+        "UPC": 715244004690
+    },
+    {
+        "StockNumber": "CRBP1152A",
+        "Brand": "Bros",
+        "Description": "JR SCREAMING CRACKLERS ROCKET",
+        "Packing": "72/12",
+        "UnitsPerCase": 72,
+        "UPC": 687985115211
+    },
+    {
+        "StockNumber": "RCBC502A",
+        "Brand": "BC",
+        "Description": "10 REPORT REPEATER",
+        "Shots": 10,
+        "Packing": "18/4",
+        "UnitsPerCase": 18
+    },
+    {
+        "StockNumber": "RCJ500",
+        "Brand": "Gen",
+        "Description": "10 BALL NITRO",
+        "Shots": 10,
+        "Packing": "36/4",
+        "UnitsPerCase": 36,
+        "UPC": 612005305006
+    },
+    {
+        "StockNumber": "RCPYK409",
+        "Brand": "PK",
+        "Description": "ab SALUTE UNIT",
+        "Shots": 10,
+        "Packing": "24/6",
+        "UnitsPerCase": 24,
+        "UPC": 708972454714
+    },
+    {
+        "StockNumber": "SKGS-30G",
+        "Brand": "Gen",
+        "Description": "WEDDING SPARKLER  GOLD",
+        "Packing": "20/8",
+        "UnitsPerCase": 20,
+        "UPC": 413555010002
+    },
+    {
+        "StockNumber": "SMF700",
+        "Brand": "Fox",
+        "Description": "REAPER SMOKE   (60 sec intense black)",
+        "Packing": "72/1",
+        "UnitsPerCase": 72,
+        "UPC": 514677007007
+    },
+    {
+        "StockNumber": "SMF700A",
+        "Brand": "Fox",
+        "Description": "REAPER SMOKE   (60 sec intense blue)",
+        "Packing": "72/1",
+        "UnitsPerCase": 72
+    },
+    {
+        "StockNumber": "SMGP100A",
+        "Brand": "Gen",
+        "Description": "TECHNICAL SMOKE (red single pk)",
+        "Packing": "120/1",
+        "UnitsPerCase": 120,
+        "UPC": 457223101005
+    },
+    {
+        "StockNumber": "SMM100A",
+        "Brand": "Gen",
+        "Description": "CAMO  SMOKE (bag)",
+        "Packing": "36/4",
+        "UnitsPerCase": 36,
+        "UPC": 652009001764
+    },
+    {
+        "StockNumber": "WGBC930",
+        "Brand": "BC",
+        "Description": "UAV ",
+        "Packing": "40/3",
+        "UnitsPerCase": 40,
+        "UPC": 715244019304
+    }
+]

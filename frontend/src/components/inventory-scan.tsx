@@ -15,6 +15,8 @@ export default function InventoryScan() {
   const [capturedImage, setCapturedImage] = useState<string | null>(null);
   const [loading, setLoading] = useState(false);
 
+  const API_URL = import.meta.env.VITE_API_URL;
+
   useEffect(() => {
         if (stream && videoRef.current) {
             videoRef.current.srcObject = stream;
@@ -26,7 +28,9 @@ export default function InventoryScan() {
     const startCamera = async () => {
         try {
             const mediaStream = await navigator.mediaDevices.getUserMedia({
-            video: true,
+            video: {
+              facingMode: 'environment'
+            }
             });
 
             setStream(mediaStream);
@@ -80,8 +84,10 @@ export default function InventoryScan() {
 
       formData.append("file", blob, "capture.jpg");
 
+      console.log(API_URL);
+
       const response = await fetch(
-        "https://your-api-endpoint.com/upload",
+        `${API_URL}/inventory/scan`,
         {
           method: "POST",
           body: formData,
