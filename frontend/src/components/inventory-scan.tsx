@@ -1,13 +1,18 @@
 import { useEffect, useRef, useState } from "react";
 import {
-  Alert,
+    Alert,
+    Autocomplete,
     Box,
     Button,
     CircularProgress,
     Container,
     Snackbar,
+    TextField,
     Typography,
 } from "@mui/material";
+import ScanResultDialog from "./scan-results";
+import type { ScanResult } from "../types/scan-result";
+import type { Order } from "../types/order";
 
 export default function InventoryScan() {
     const videoRef = useRef<HTMLVideoElement | null>(null);
@@ -18,6 +23,12 @@ export default function InventoryScan() {
 
     const [toastOpen, setToastOpen] = useState(false);
     const [toastMessage, setToastMessage] = useState("");
+
+    const [resultsShowing, setResultsShowing] = useState(false);
+    const [scanResults, setScanResults] = useState<ScanResult[]>([]);
+
+    const [selectedOrder, setSelectedOrder] = useState<Order | null>();
+    const [orders, setOrders] = useState<Order[]>([]);
 
     const showToast = (message: string) => {
         setToastMessage(message);
@@ -32,6 +43,8 @@ export default function InventoryScan() {
 
     useEffect(() => {
         startCamera();
+
+        loadOrders();
     }, []);
 
     useEffect(() => {
@@ -41,6 +54,18 @@ export default function InventoryScan() {
             videoRef.current.play().catch(console.error);
         }
     }, [stream]);
+
+	const loadOrders = async () => {
+		const response = await fetch(`${API_URL}/order`, {
+            method: "GET",
+        });
+
+        if (!response.ok) {
+            throw new Error("Order fetch failed");
+        }
+
+        setOrders(await response.json());
+	};
 
     const startCamera = async () => {
         try {
@@ -90,9 +115,7 @@ export default function InventoryScan() {
 
             formData.append("file", blob, "capture.jpg");
 
-            console.log(API_URL);
-
-            const response = await fetch(`${API_URL}/inventory/scan`, {
+            const response = await fetch(`${API_URL}/product-lookup/scan`, {
                 method: "POST",
                 body: formData,
             });
@@ -101,11 +124,16 @@ export default function InventoryScan() {
                 throw new Error("Upload failed");
             }
 
-            const result = await response.json();
+            const result = (await response.json()) as ScanResult[];
 
-            showToast('Success');
+            setScanResults(result);
 
-            console.log("Upload successful", result);
+            if (result.length > 0) {
+                setResultsShowing(true);
+            } else {
+                setResultsShowing(false);
+                showToast("Product not found.");
+            }
         } catch (error) {
             console.error("Upload failed", error);
         } finally {
@@ -131,8 +159,25 @@ export default function InventoryScan() {
             </Snackbar>
 
             <Typography variant="h5" gutterBottom>
-                Inventory Scanner
+                Order Intake Scanner
             </Typography>
+
+            <Autocomplete
+                options={orders}
+                value={selectedOrder}
+                onChange={(_, newValue) => setSelectedOrder(newValue)}
+                getOptionLabel={(option) => option.name}
+                isOptionEqualToValue={(option, value) => option.id === value.id}
+                renderInput={(params) => (
+                    <TextField
+                        {...params}
+                        label="Select Your Order"
+                        placeholder="Search..."
+                    />
+                )}
+                fullWidth
+				sx={{ marginBottom: 2, marginTop: 2 }}
+            />
 
             {stream && (
                 <Box>
@@ -162,6 +207,17 @@ export default function InventoryScan() {
             {loading && <CircularProgress />}
 
             <canvas ref={canvasRef} style={{ display: "none" }} />
+
+            <ScanResultDialog
+                onClose={() => setResultsShowing(false)}
+				onConfirm={(i) => {
+					setResultsShowing(false);
+					showToast(`${i.upc} has been added (${i.count} in stock)`)
+				}}
+                open={resultsShowing}
+                results={scanResults}
+				orderId={selectedOrder?.id}
+            />
         </Container>
     );
 }

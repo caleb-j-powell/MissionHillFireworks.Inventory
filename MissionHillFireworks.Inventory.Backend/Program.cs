@@ -1,7 +1,15 @@
 using Florence2;
+using Microsoft.EntityFrameworkCore;
+using MissionHillFireworks.Inventory.Backend.Infrastructure;
 using MissionHillFireworks.Inventory.Backend.Services;
+using MissionHillFireworks.Inventory.Backend.Services.DataServices;
 
 var builder = WebApplication.CreateBuilder(args);
+
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+
+builder.Services.AddDbContext<DatabaseContext>(options =>
+    options.UseSqlite(connectionString));
 
 // Add services to the container.
 
@@ -22,7 +30,9 @@ builder.Services.AddSingleton<Florence2Model>(_ =>
 });
 
 builder.Services.AddSingleton<Florence2OcrService>();
-builder.Services.AddSingleton<InventoryService>();
+builder.Services.AddSingleton<ProductLookupService>();
+builder.Services.AddScoped<OrderService>();
+builder.Services.AddScoped<OrderIntakeItemService>();
 
 builder.Services.AddCors(options =>
 {
@@ -36,6 +46,26 @@ builder.Services.AddCors(options =>
 });
 
 var app = builder.Build();
+
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+    try
+    {
+        var context = services.GetRequiredService<DatabaseContext>();
+
+        // This will automatically apply any pending migrations
+        context.Database.Migrate();
+    }
+    catch (Exception ex)
+    {
+        var logger = services.GetRequiredService<ILogger<Program>>();
+        logger.LogError(ex, "An error occurred while migrating the database.");
+
+        // Optional: Terminate the app if the database cannot update
+        throw;
+    }
+}
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

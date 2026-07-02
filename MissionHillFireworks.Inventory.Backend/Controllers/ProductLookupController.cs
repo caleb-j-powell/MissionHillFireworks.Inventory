@@ -5,8 +5,8 @@ using MissionHillFireworks.Inventory.Backend.Services;
 namespace MissionHillFireworks.Inventory.Backend.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
-    public class InventoryController(InventoryService inventoryService) : ControllerBase
+    [Route("api/product-lookup")]
+    public class ProductLookupController(ProductLookupService inventoryService) : ControllerBase
     {
         [HttpPost("Scan")]
         public async Task<IActionResult> Scan([FromForm] IFormFile file)
