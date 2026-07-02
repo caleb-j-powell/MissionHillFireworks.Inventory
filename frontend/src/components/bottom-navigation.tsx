@@ -1,9 +1,7 @@
 import * as React from "react";
 import { BottomNavigation, BottomNavigationAction, Paper } from "@mui/material";
-import HomeIcon from "@mui/icons-material/Home";
-import SearchIcon from "@mui/icons-material/Search";
-import FavoriteIcon from "@mui/icons-material/Favorite";
-import PersonIcon from "@mui/icons-material/Person";
+import ReceiptIcon from "@mui/icons-material/Receipt";
+import QrCodeScannerIcon from "@mui/icons-material/QrCodeScanner";
 import { useLocation, useNavigate } from "react-router-dom";
 
 type RouteMap = {
@@ -13,10 +11,8 @@ type RouteMap = {
 };
 
 const routes: RouteMap[] = [
-  { label: "Home", path: "/", icon: <HomeIcon /> },
-  { label: "Search", path: "/search", icon: <SearchIcon /> },
-  { label: "Favorites", path: "/favorites", icon: <FavoriteIcon /> },
-  { label: "Profile", path: "/profile", icon: <PersonIcon /> },
+  { label: "Product Intake", path: "/product-intake", icon: <ReceiptIcon /> },
+  { label: "Scan", path: "/scan", icon: <QrCodeScannerIcon /> },
 ];
 
 export default function BottomNav() {
