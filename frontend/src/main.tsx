@@ -5,6 +5,7 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import UploadOrderExcel from './components/upload-order-excel.tsx'
 import { Box, createTheme, CssBaseline, ThemeProvider } from '@mui/material'
 import BottomNav from './components/bottom-navigation.tsx'
+import OrderManagement from './components/order-management.tsx'
 
 const theme = createTheme({
   palette: {
@@ -20,7 +21,8 @@ createRoot(document.getElementById('root')!).render(
       <Box sx={{ pb: "calc(56px + env(safe-area-inset-bottom))" }}>
         <Routes>
           <Route path="/scan" element={<App />} />
-          <Route path="/product-intake" element={<UploadOrderExcel />} />
+          <Route path="/confirmation" element={<></>} />
+          <Route path="/order-management" element={<OrderManagement />} />
         </Routes>
 
         <BottomNav/>

@@ -19,16 +19,18 @@ namespace MissionHillFireworks.Inventory.Backend.Services.DataServices
             return results;
         }
 
-        public async Task CreateOrUpdateAsync(long? id, string name)
+        public async Task<Order> CreateOrUpdateAsync(long? id, string name)
         {
+            Order order;
+
             if (id.HasValue)
             {
-                var order = await _context.Orders.SingleAsync(o => o.Id == id);
+                order = await _context.Orders.SingleAsync(o => o.Id == id);
                 order.Name = name;
             }
             else
             {
-                var order = new Order
+                order = new Order
                 {
                     Name = name
                 };
@@ -37,6 +39,8 @@ namespace MissionHillFireworks.Inventory.Backend.Services.DataServices
             }
 
             await _context.SaveChangesAsync();
+
+            return order;
         }
     }
 }

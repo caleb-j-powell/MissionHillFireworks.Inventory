@@ -198,6 +198,7 @@ export default function InventoryScan() {
                         fullWidth
                         sx={{ mt: 2 }}
                         onClick={capturePhoto}
+                        disabled={!selectedOrder}
                     >
                         Scan
                     </Button>

@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using MissionHillFireworks.Inventory.Backend.Requests;
 using MissionHillFireworks.Inventory.Backend.Services.DataServices;
 
 namespace MissionHillFireworks.Inventory.Backend.Controllers
@@ -7,6 +8,22 @@ namespace MissionHillFireworks.Inventory.Backend.Controllers
     [Route("api/order")]
     public class OrderController(OrderService orderService) : ControllerBase
     {
+        [HttpPost]
+        public async Task<IActionResult> Post([FromBody] OrderRequest request)
+        {
+            var order = await orderService.CreateOrUpdateAsync(null, request.Name);
+
+            return Ok(order);
+        }
+
+        [HttpPut("{id}")]
+        public async Task<IActionResult> Put([FromRoute] long id, [FromBody] OrderRequest request)
+        {
+            var order = await orderService.CreateOrUpdateAsync(id, request.Name);
+
+            return Ok(order);
+        }
+
         [HttpGet]
         public async Task<IActionResult> Get()
         {
