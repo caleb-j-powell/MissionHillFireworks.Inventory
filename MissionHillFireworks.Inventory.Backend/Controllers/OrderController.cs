@@ -31,5 +31,22 @@ namespace MissionHillFireworks.Inventory.Backend.Controllers
 
             return Ok(orders);
         }
+
+        [HttpGet("{orderId}/Intake")]
+        public async Task<IActionResult> GetIntake([FromRoute] long orderId)
+        {
+            var orders = await orderService.GetIntakeAsync(orderId);
+
+            return Ok(orders);
+        }
+
+        [HttpPost("{orderId}/import")]
+        public async Task<IActionResult> Import([FromRoute] int orderId,
+        [FromBody] OrderImportRequest request)
+        {
+            await orderService.ImportAsync(orderId, request.Items);
+
+            return Ok();
+        }
     }
 }

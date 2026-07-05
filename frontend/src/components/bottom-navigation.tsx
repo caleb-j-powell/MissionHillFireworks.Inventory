@@ -14,7 +14,7 @@ type RouteMap = {
 const routes: RouteMap[] = [
   { label: "Order Management", path: "/order-management", icon: <ContentPasteIcon /> },
   { label: "Scan", path: "/scan", icon: <QrCodeScannerIcon /> },
-  { label: "Product Intake", path: "/product-intake", icon: <FactCheckIcon /> },
+  { label: "Intake Confirmation", path: "/intake-confirmation", icon: <FactCheckIcon /> },
 ];
 
 export default function BottomNav() {

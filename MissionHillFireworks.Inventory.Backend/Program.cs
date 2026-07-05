@@ -40,7 +40,9 @@ builder.Services.AddCors(options =>
     {
         policy
               .WithOrigins("https://192.168.1.68:5173")
+              .WithOrigins("https://192.168.1.80:5173")
               .WithOrigins("https://192.168.4.29:5173")
+              .WithOrigins("https://192.168.86.44:5173")
               .AllowAnyHeader()
               .AllowAnyMethod()
               .AllowCredentials(); // only if you use cookies/auth

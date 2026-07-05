@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useState } from "react";
 import {
   Box,
   Button,
@@ -19,6 +19,7 @@ import AddIcon from "@mui/icons-material/Add";
 import EditIcon from "@mui/icons-material/Edit";
 import DeleteIcon from "@mui/icons-material/Delete";
 import ListAltIcon from "@mui/icons-material/ListAlt";
+import UploadOrderExcelDialog from "./upload-order-excel";
 
 interface Order {
   id: number;
@@ -27,8 +28,6 @@ interface Order {
 
 export default function OrdersPage() {
   const API_URL = import.meta.env.VITE_API_URL;
-
-  const fileInputRef = useRef<HTMLInputElement>(null);
 
   const [orders, setOrders] = useState<Order[]>([]);
   const [loading, setLoading] = useState(true);
@@ -41,6 +40,8 @@ export default function OrdersPage() {
   const [orderToDelete, setOrderToDelete] = useState<Order | null>(null);
 
   const [orderName, setOrderName] = useState("");
+
+  const [currentOrder, setCurrentOrder] = useState<Order>();
 
   useEffect(() => {
     loadOrders();
@@ -79,20 +80,10 @@ export default function OrdersPage() {
   }
 
   function openItemsDialog(order: Order) {
-    fileInputRef.current?.click();
-  }
-
-  const handleFileSelected = (
-    event: React.ChangeEvent<HTMLInputElement>
-  ) => {
-    const file = event.target.files?.[0];
-
-    if (!file) return;
+    setCurrentOrder(order);
 
     setItemsDialogOpen(true);
-
-    console.log(file);
-  };
+  }
 
   async function saveOrder() {
     try {
@@ -151,9 +142,11 @@ export default function OrdersPage() {
   if (loading) {
     return (
       <Box
-        display="flex"
-        justifyContent="center"
-        mt={5}
+        sx={{
+          display: "flex",
+          justifyContent: "center",
+          mt: 5,
+        }}
       >
         <CircularProgress />
       </Box>
@@ -163,14 +156,14 @@ export default function OrdersPage() {
   return (
     <>
       <Box
-        display="flex"
-        justifyContent="space-between"
-        alignItems="center"
-        mb={2}
+        sx={{
+          display: "flex",
+          justifyContent: "space-between",
+          alignItems: "center",
+          mb: 2,
+        }}
       >
-        <Typography variant="h5">
-          Orders
-        </Typography>
+        <Typography variant="h5">Orders</Typography>
 
         <Button
           variant="contained"
@@ -181,14 +174,6 @@ export default function OrdersPage() {
         </Button>
       </Box>
 
-      <input
-        ref={fileInputRef}
-        type="file"
-        accept=".xlsx,.xls,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,application/vnd.ms-excel"
-        style={{ display: "none" }}
-        onChange={handleFileSelected}
-      />
-
       <Paper>
         <List>
           {orders.map((order) => (
@@ -197,15 +182,11 @@ export default function OrdersPage() {
               divider
               secondaryAction={
                 <>
-                    <IconButton
-                    onClick={() => openItemsDialog(order)}
-                  >
+                  <IconButton onClick={() => openItemsDialog(order)}>
                     <ListAltIcon />
                   </IconButton>
 
-                  <IconButton
-                    onClick={() => openEditDialog(order)}
-                  >
+                  <IconButton onClick={() => openEditDialog(order)}>
                     <EditIcon />
                   </IconButton>
 
@@ -224,14 +205,8 @@ export default function OrdersPage() {
         </List>
       </Paper>
 
-      <Dialog
-        open={dialogOpen}
-        onClose={() => setDialogOpen(false)}
-        fullWidth
-      >
-        <DialogTitle>
-          {editingOrder ? "Edit Order" : "New Order"}
-        </DialogTitle>
+      <Dialog open={dialogOpen} onClose={() => setDialogOpen(false)} fullWidth>
+        <DialogTitle>{editingOrder ? "Edit Order" : "New Order"}</DialogTitle>
 
         <DialogContent>
           <TextField
@@ -245,11 +220,7 @@ export default function OrdersPage() {
         </DialogContent>
 
         <DialogActions>
-          <Button
-            onClick={() => setDialogOpen(false)}
-          >
-            Cancel
-          </Button>
+          <Button onClick={() => setDialogOpen(false)}>Cancel</Button>
 
           <Button
             variant="contained"
@@ -261,10 +232,7 @@ export default function OrdersPage() {
         </DialogActions>
       </Dialog>
 
-      <Dialog
-        open={deleteOpen}
-        onClose={() => setDeleteOpen(false)}
-      >
+      <Dialog open={deleteOpen} onClose={() => setDeleteOpen(false)}>
         <DialogTitle>Delete Order?</DialogTitle>
 
         <DialogContent>
@@ -275,21 +243,15 @@ export default function OrdersPage() {
         </DialogContent>
 
         <DialogActions>
-          <Button
-            onClick={() => setDeleteOpen(false)}
-          >
-            Cancel
-          </Button>
+          <Button onClick={() => setDeleteOpen(false)}>Cancel</Button>
 
-          <Button
-            color="error"
-            variant="contained"
-            onClick={deleteOrder}
-          >
+          <Button color="error" variant="contained" onClick={deleteOrder}>
             Delete
           </Button>
         </DialogActions>
       </Dialog>
+
+      <UploadOrderExcelDialog open={itemsDialogOpen} onClose={() => setItemsDialogOpen(false)} order={currentOrder} />
     </>
   );
 }

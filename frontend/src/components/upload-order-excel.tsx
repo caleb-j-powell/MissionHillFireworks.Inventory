@@ -1,5 +1,4 @@
 import { useState } from "react";
-import * as XLSX from "xlsx";
 import {
   Button,
   Dialog,
@@ -15,53 +14,54 @@ import {
   TableRow,
   Typography,
 } from "@mui/material";
+import type { Order } from "../types/order";
+import { extractRowsFromXlsx, type RowModel } from "../helpers/excel-helper";
 
 interface Props {
   open: boolean;
   onClose: () => void;
+  order: Order;
 }
 
 export default function UploadOrderExcelDialog({
   open,
   onClose,
+  order,
 }: Props) {
   const API_URL = import.meta.env.VITE_API_URL;
 
-  const [rows, setRows] = useState<any[]>([]);
+  const [rows, setRows] = useState<RowModel[]>([]);
   const [file, setFile] = useState<File | null>(null);
 
-  const handleFileUpload = async (
-    e: React.ChangeEvent<HTMLInputElement>
-  ) => {
+  const handleFileUpload = async (e: React.ChangeEvent<HTMLInputElement>) => {
     const selectedFile = e.target.files?.[0];
 
     if (!selectedFile) return;
 
     setFile(selectedFile);
 
-    const data = await selectedFile.arrayBuffer();
+    const rows = await extractRowsFromXlsx(selectedFile);
 
-    const workbook = XLSX.read(data);
+    console.log(rows);
 
-    const sheet = workbook.Sheets[workbook.SheetNames[0]];
+    const filteredRows = rows.filter((r) => r.orderedQuantity);
 
-    const json = XLSX.utils.sheet_to_json(sheet, {
-      defval: "",
-    });
-
-    setRows(json);
+    setRows(filteredRows);
   };
 
   const importFile = async () => {
     if (!file) return;
 
-    const formData = new FormData();
+    const request = {
+      items: rows,
+    };
 
-    formData.append("file", file);
-
-    await fetch(`${API_URL}/orders/import`, {
+    await fetch(`${API_URL}/order/${order.id}/import`, {
       method: "POST",
-      body: formData,
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify(request),
     });
 
     onClose();
@@ -74,22 +74,12 @@ export default function UploadOrderExcelDialog({
   };
 
   return (
-    <Dialog
-      open={open}
-      onClose={reset}
-      fullWidth
-      maxWidth="lg"
-    >
+    <Dialog open={open} onClose={reset} fullWidth maxWidth="lg">
       <DialogTitle>Import Orders</DialogTitle>
 
       <DialogContent dividers>
-
-        <Button
-          component="label"
-          variant="contained"
-        >
+        <Button component="label" variant="contained">
           Choose Excel File
-
           <input
             hidden
             type="file"
@@ -98,11 +88,7 @@ export default function UploadOrderExcelDialog({
           />
         </Button>
 
-        {file && (
-          <Typography sx={{ mt: 2 }}>
-            {file.name}
-          </Typography>
-        )}
+        {file && <Typography sx={{ mt: 2 }}>{file.name}</Typography>}
 
         {rows.length > 0 && (
           <TableContainer
@@ -113,45 +99,36 @@ export default function UploadOrderExcelDialog({
             }}
           >
             <Table stickyHeader size="small">
-
               <TableHead>
                 <TableRow>
-                  {Object.keys(rows[0]).map((key) => (
-                    <TableCell key={key}>
-                      <strong>{key}</strong>
-                    </TableCell>
-                  ))}
+                  <TableCell key="Stock #">
+                    <strong>Stock #</strong>
+                  </TableCell>
+                  <TableCell key="Ordered Quantity">
+                    <strong>Ordered Quantity</strong>
+                  </TableCell>
                 </TableRow>
               </TableHead>
 
               <TableBody>
                 {rows.map((row, index) => (
                   <TableRow key={index}>
-                    {Object.values(row).map((value, i) => (
-                      <TableCell key={i}>
-                        {String(value)}
-                      </TableCell>
-                    ))}
+                    <TableCell key={`sn-${index}`}>{row.stockNumber}</TableCell>
+                    <TableCell key={`oq-${index}`}>
+                      {row.orderedQuantity}
+                    </TableCell>
                   </TableRow>
                 ))}
               </TableBody>
-
             </Table>
           </TableContainer>
         )}
-
       </DialogContent>
 
       <DialogActions>
-        <Button onClick={reset}>
-          Cancel
-        </Button>
+        <Button onClick={reset}>Cancel</Button>
 
-        <Button
-          variant="contained"
-          disabled={!file}
-          onClick={importFile}
-        >
+        <Button variant="contained" disabled={!file} onClick={importFile}>
           Import
         </Button>
       </DialogActions>

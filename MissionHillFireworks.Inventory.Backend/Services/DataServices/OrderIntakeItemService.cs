@@ -12,9 +12,9 @@ namespace MissionHillFireworks.Inventory.Backend.Services.DataServices
             _context = context;
         }
 
-        public async Task<OrderIntakeItem> AddAsync(long orderId, string upc)
+        public async Task<OrderIntakeItem> AddAsync(long orderId, string stockNumber)
         {
-            var item = await _context.OrderIntakeItems.SingleOrDefaultAsync(o => o.UPC == upc);
+            var item = await _context.OrderIntakeItems.SingleOrDefaultAsync(o => o.StockNumber == stockNumber);
 
             if (item is null)
             {
@@ -22,7 +22,7 @@ namespace MissionHillFireworks.Inventory.Backend.Services.DataServices
                 {
                     Count = 1,
                     OrderId = orderId,
-                    UPC = upc,
+                    StockNumber = stockNumber,
                 };
 
                 _context.OrderIntakeItems.Add(item);

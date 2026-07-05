@@ -1,8 +1,8 @@
 ﻿namespace MissionHillFireworks.Inventory.Backend.Requests
 {
-    public class OrderIntakeItemRequest
+    public class OrderImportItemRequest
     {
-        public long OrderId { get; set; }
         public string StockNumber { get; set; }
+        public int OrderedQuantity { get; set; }
     }
 }

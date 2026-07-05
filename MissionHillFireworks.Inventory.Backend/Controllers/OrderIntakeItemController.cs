@@ -11,7 +11,7 @@ namespace MissionHillFireworks.Inventory.Backend.Controllers
         [HttpPost]
         public async Task<IActionResult> Post([FromBody] OrderIntakeItemRequest request)
         {
-            var item = await orderIntakeItemService.AddAsync(request.OrderId, request.UPC);
+            var item = await orderIntakeItemService.AddAsync(request.OrderId, request.StockNumber);
 
             return Ok(item);
         }

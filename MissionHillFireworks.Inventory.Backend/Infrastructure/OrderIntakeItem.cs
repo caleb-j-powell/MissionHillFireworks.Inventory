@@ -11,6 +11,6 @@ namespace MissionHillFireworks.Inventory.Backend.Infrastructure
 
         public long Count { get; set; }
 
-        public string UPC { get; set; }
+        public string StockNumber { get; set; }
     }
 }

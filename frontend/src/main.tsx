@@ -2,10 +2,10 @@ import { createRoot } from 'react-dom/client'
 import './index.css'
 import App from './App.tsx'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
-import UploadOrderExcel from './components/upload-order-excel.tsx'
 import { Box, createTheme, CssBaseline, ThemeProvider } from '@mui/material'
 import BottomNav from './components/bottom-navigation.tsx'
 import OrderManagement from './components/order-management.tsx'
+import IntakeConfirmation from './components/intake-confirmation.tsx'
 
 const theme = createTheme({
   palette: {
@@ -21,7 +21,7 @@ createRoot(document.getElementById('root')!).render(
       <Box sx={{ pb: "calc(56px + env(safe-area-inset-bottom))" }}>
         <Routes>
           <Route path="/scan" element={<App />} />
-          <Route path="/confirmation" element={<></>} />
+          <Route path="/intake-confirmation" element={<IntakeConfirmation/>} />
           <Route path="/order-management" element={<OrderManagement />} />
         </Routes>
 

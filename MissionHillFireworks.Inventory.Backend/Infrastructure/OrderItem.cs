@@ -9,7 +9,7 @@ namespace MissionHillFireworks.Inventory.Backend.Infrastructure
         [ForeignKey("Order")]
         public long OrderId { get; set; }
 
-        public string UPC { get; set; }
+        public string StockNumber { get; set; }
 
         public long Count { get; set; }
     }

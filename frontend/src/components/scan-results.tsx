@@ -52,7 +52,7 @@ export default function ScanResultDialog({
                     "Content-Type": "application/json",
                 },
                 body: JSON.stringify({
-                    UPC: selected.upc.toString(),
+                    StockNumber: selected.stockNumber.toString(),
                     OrderId: orderId
                 }),
             });
